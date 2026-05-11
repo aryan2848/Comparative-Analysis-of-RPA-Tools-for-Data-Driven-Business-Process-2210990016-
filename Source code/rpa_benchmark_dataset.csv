@@ -1,0 +1,501 @@
+Record ID,Employee/Customer Name,Department,Invoice Number,Transaction Date,Product Category,Quantity,Unit Price,Total Amount,Payment Status,Email Address,Report Type,Processing Priority,Task Completion Status,Execution Timestamp
+REC-1001,Linda Martinez,Finance,FIN-46048,2023-05-06,Hardware Peripherals,48,60.22,2890.56,Paid,linda.martinez@finance.enterprise.com,Inventory Reconciliation,Medium,Completed,2023-05-06 09:00:00
+REC-1002,Elizabeth Miller,IT Operations,IT -88907,2023-01-14,Hardware Peripherals,46,328.44,15108.24,Overdue,elizabeth.miller@itoperations.enterprise.com,Audit Log,Medium,In Progress,2023-01-14 18:00:00
+REC-1003,Patricia Brown,Sales,SAL-65392,2023-06-24,Hardware Peripherals,14,479.03,6706.42,Partially Paid,patricia.brown@sales.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-06-24 15:00:00
+REC-1004,Susan Jackson,IT Operations,IT -44671,2023-01-23,Employee Benefits,35,71.16,2490.6,Overdue,susan.jackson@itoperations.enterprise.com,Monthly Summary,Low,In Progress,2023-01-25 16:00:00
+REC-1005,Susan Jackson,IT Operations,IT -35203,2023-12-27,Software Licenses,43,121.67,5231.81,Partially Paid,susan.jackson@itoperations.enterprise.com,Monthly Summary,High,Completed,2023-12-28 03:00:00
+REC-1006,Susan Jackson,Human Resources,HUM-58520,2023-07-01,Maintenance Services,18,353.89,6370.02,Paid,susan.jackson@humanresources.enterprise.com,Inventory Reconciliation,Low,Pending,2023-07-02 17:00:00
+REC-1007,Patricia Brown,Customer Support,CUS-59735,2023-05-19,Maintenance Services,36,117.61,4233.96,Partially Paid,patricia.brown@customersupport.enterprise.com,Monthly Summary,High,Completed,2023-05-20 17:00:00
+REC-1008,James Wilson,Human Resources,HUM-84341,2023-06-11,Maintenance Services,32,203.86,6523.52,Overdue,james.wilson@humanresources.enterprise.com,Audit Log,Medium,Pending,2023-06-11 22:00:00
+REC-1009,Karen Young,Inventory Management,INV-86622,2023-08-08,Employee Benefits,24,117.47,2819.28,Unpaid,karen.young@inventorymanagement.enterprise.com,Inventory Reconciliation,Medium,Completed,2023-08-08 22:00:00
+REC-1010,Robert Johnson,Sales,SAL-30969,2023-12-15,Marketing Material,5,198.54,992.7,Overdue,robert.johnson@sales.enterprise.com,Inventory Reconciliation,Medium,Completed,2023-12-17 09:00:00
+REC-1011,Karen Young,Procurement,PRO-44973,2023-11-25,Software Licenses,19,223.03,4237.57,Overdue,karen.young@procurement.enterprise.com,Monthly Summary,Low,In Progress,2023-11-26 19:00:00
+REC-1012,Charles Moore,Finance,FIN-91959,2023-06-02,Marketing Material,39,107.47,4191.33,Partially Paid,charles.moore@finance.enterprise.com,Audit Log,Low,Completed,2023-06-04 11:00:00
+REC-1013,John Smith,Finance,FIN-57576,2023-06-07,Software Licenses,16,440.22,7043.52,Paid,john.smith@finance.enterprise.com,Monthly Summary,Low,Awaiting Approval,2023-06-07 12:00:00
+REC-1014,Karen Young,Procurement,PRO-26483,2023-03-07,Employee Benefits,36,90.91,3272.76,Overdue,karen.young@procurement.enterprise.com,Audit Log,Low,Pending,2023-03-09 19:00:00
+REC-1015,Susan Jackson,Customer Support,CUS-77839,2023-08-20,Hardware Peripherals,15,41.37,620.55,Paid,susan.jackson@customersupport.enterprise.com,Inventory Reconciliation,Low,Pending,2023-08-21 17:00:00
+REC-1016,James Wilson,Sales,SAL-92719,2023-01-31,Software Licenses,3,431.22,1293.66,Paid,james.wilson@sales.enterprise.com,Inventory Reconciliation,High,In Progress,2023-02-02 02:00:00
+REC-1017,Karen Young,Human Resources,HUM-84847,2023-10-23,Hardware Peripherals,31,405.67,12575.77,Unpaid,karen.young@humanresources.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-10-24 14:00:00
+REC-1018,Thomas Martin,Procurement,PRO-17100,2023-12-11,Maintenance Services,7,39.7,277.9,Partially Paid,thomas.martin@procurement.enterprise.com,Monthly Summary,High,Pending,2023-12-12 09:00:00
+REC-1019,Robert Johnson,Customer Support,CUS-34050,2023-05-23,Hardware Peripherals,5,227.13,1135.65,Paid,robert.johnson@customersupport.enterprise.com,Monthly Summary,Low,Completed,2023-05-23 20:00:00
+REC-1020,Elizabeth Miller,Human Resources,HUM-63269,2023-09-06,Hardware Peripherals,26,452.2,11757.2,Unpaid,elizabeth.miller@humanresources.enterprise.com,Payroll Report,High,Awaiting Approval,2023-09-07 08:00:00
+REC-1021,Thomas Martin,Inventory Management,INV-65444,2023-12-23,Marketing Material,43,362.02,15566.86,Unpaid,thomas.martin@inventorymanagement.enterprise.com,Audit Log,Medium,Pending,2023-12-24 03:00:00
+REC-1022,Karen Young,Finance,FIN-51104,2023-01-30,Marketing Material,31,256.4,7948.4,Unpaid,karen.young@finance.enterprise.com,Monthly Summary,Low,Completed,2023-01-30 13:00:00
+REC-1023,James Wilson,Sales,SAL-40828,2023-07-26,Marketing Material,16,293.67,4698.72,Paid,james.wilson@sales.enterprise.com,Inventory Reconciliation,High,Awaiting Approval,2023-07-27 22:00:00
+REC-1024,Charles Moore,Inventory Management,INV-44179,2023-04-15,Maintenance Services,21,126.96,2666.16,Overdue,charles.moore@inventorymanagement.enterprise.com,Audit Log,Low,In Progress,2023-04-17 03:00:00
+REC-1025,James Wilson,Finance,FIN-70068,2023-11-15,Software Licenses,5,273.44,1367.2,Partially Paid,james.wilson@finance.enterprise.com,Audit Log,Medium,Completed,2023-11-16 10:00:00
+REC-1026,Patricia Brown,Customer Support,CUS-81200,2023-12-27,Marketing Material,42,269.18,11305.56,Partially Paid,patricia.brown@customersupport.enterprise.com,Expense Reimbursement,High,Pending,2023-12-28 02:00:00
+REC-1027,Linda Martinez,Sales,SAL-82512,2023-03-21,Office Supplies,39,113.21,4415.19,Partially Paid,linda.martinez@sales.enterprise.com,Audit Log,Low,In Progress,2023-03-22 17:00:00
+REC-1028,Maria Garcia,Finance,FIN-93136,2023-08-05,Software Licenses,1,173.44,173.44,Unpaid,maria.garcia@finance.enterprise.com,Expense Reimbursement,Medium,Pending,2023-08-07 08:00:00
+REC-1029,Jessica Harris,IT Operations,IT -11267,2023-02-27,Maintenance Services,10,277.34,2773.4,Partially Paid,jessica.harris@itoperations.enterprise.com,Inventory Reconciliation,Low,Pending,2023-02-28 06:00:00
+REC-1030,Barbara Anderson,Inventory Management,INV-15229,2023-07-03,Maintenance Services,16,336.8,5388.8,Partially Paid,barbara.anderson@inventorymanagement.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-07-03 22:00:00
+REC-1031,Patricia Brown,Customer Support,CUS-13248,2023-04-02,Office Supplies,27,403.1,10883.7,Unpaid,patricia.brown@customersupport.enterprise.com,Tax Filing,High,Completed,2023-04-04 00:00:00
+REC-1032,Sarah Thompson,Human Resources,HUM-36158,2023-08-24,Office Supplies,15,119.23,1788.45,Unpaid,sarah.thompson@humanresources.enterprise.com,Payroll Report,Medium,In Progress,2023-08-24 16:00:00
+REC-1033,William Taylor,Inventory Management,INV-94080,2023-09-18,Maintenance Services,35,172.26,6029.1,Paid,william.taylor@inventorymanagement.enterprise.com,Monthly Summary,Medium,Pending,2023-09-20 02:00:00
+REC-1034,William Taylor,Finance,FIN-24208,2023-11-02,Office Supplies,47,395.35,18581.45,Overdue,william.taylor@finance.enterprise.com,Inventory Reconciliation,Low,Completed,2023-11-03 14:00:00
+REC-1035,Michael Davis,Inventory Management,INV-15817,2023-12-29,Software Licenses,34,463.53,15760.02,Unpaid,michael.davis@inventorymanagement.enterprise.com,Tax Filing,Medium,Completed,2023-12-31 08:00:00
+REC-1036,Nancy King,Inventory Management,INV-96951,2023-03-05,Office Supplies,33,161.55,5331.15,Overdue,nancy.king@inventorymanagement.enterprise.com,Tax Filing,Medium,In Progress,2023-03-07 11:00:00
+REC-1037,Jessica Harris,Sales,SAL-59695,2023-12-13,Hardware Peripherals,40,288.86,11554.4,Overdue,jessica.harris@sales.enterprise.com,Inventory Reconciliation,High,In Progress,2023-12-14 18:00:00
+REC-1038,Christopher Allen,IT Operations,IT -95813,2023-06-14,Employee Benefits,29,341.06,9890.74,Overdue,christopher.allen@itoperations.enterprise.com,Expense Reimbursement,High,Completed,2023-06-15 09:00:00
+REC-1039,Nancy King,Inventory Management,INV-22240,2023-05-01,Office Supplies,15,405.22,6078.3,Unpaid,nancy.king@inventorymanagement.enterprise.com,Monthly Summary,High,Pending,2023-05-03 04:00:00
+REC-1040,James Wilson,Customer Support,CUS-64321,2023-11-19,Hardware Peripherals,46,351.21,16155.66,Overdue,james.wilson@customersupport.enterprise.com,Payroll Report,High,Pending,2023-11-21 12:00:00
+REC-1041,Linda Martinez,Procurement,PRO-65724,2023-04-23,Maintenance Services,34,237.63,8079.42,Unpaid,linda.martinez@procurement.enterprise.com,Monthly Summary,Medium,Pending,2023-04-24 11:00:00
+REC-1042,Karen Young,IT Operations,IT -51588,2023-08-15,Maintenance Services,33,219.1,7230.3,Overdue,karen.young@itoperations.enterprise.com,Audit Log,Low,Awaiting Approval,2023-08-17 00:00:00
+REC-1043,Elizabeth Miller,Procurement,PRO-93579,2023-05-22,Employee Benefits,41,127.23,5216.43,Overdue,elizabeth.miller@procurement.enterprise.com,Monthly Summary,Low,In Progress,2023-05-23 08:00:00
+REC-1044,Richard Thomas,IT Operations,IT -20561,2023-03-12,Hardware Peripherals,25,350.04,8751.0,Unpaid,richard.thomas@itoperations.enterprise.com,Monthly Summary,Medium,Awaiting Approval,2023-03-13 02:00:00
+REC-1045,Jessica Harris,Finance,FIN-37110,2023-08-04,Marketing Material,45,19.57,880.65,Overdue,jessica.harris@finance.enterprise.com,Payroll Report,High,In Progress,2023-08-05 08:00:00
+REC-1046,Jessica Harris,IT Operations,IT -81582,2023-11-05,Employee Benefits,15,143.74,2156.1,Overdue,jessica.harris@itoperations.enterprise.com,Monthly Summary,Medium,In Progress,2023-11-07 02:00:00
+REC-1047,Joseph White,Sales,SAL-31632,2023-08-28,Marketing Material,35,23.21,812.35,Overdue,joseph.white@sales.enterprise.com,Inventory Reconciliation,Low,Completed,2023-08-28 10:00:00
+REC-1048,Robert Johnson,Procurement,PRO-70515,2023-04-04,Office Supplies,25,170.4,4260.0,Overdue,robert.johnson@procurement.enterprise.com,Tax Filing,Medium,Awaiting Approval,2023-04-04 19:00:00
+REC-1049,Jessica Harris,Inventory Management,INV-20735,2023-08-29,Maintenance Services,N/A,35.52,1243.2,Partially Paid,jessica.harris@inventorymanagement.enterprise.com,Audit Log,Low,Completed,2023-08-30 18:00:00
+REC-1050,John Smith,Human Resources,HUM-36130,2023-01-11,Hardware Peripherals,16,71.85,1149.6,Paid,john.smith@humanresources.enterprise.com,Inventory Reconciliation,High,Awaiting Approval,2023-01-13 16:00:00
+REC-1051,Susan Jackson,Human Resources,HUM-89415,2023-11-07,Maintenance Services,8,391.12,3128.96,Unpaid,susan.jackson@humanresources.enterprise.com,Tax Filing,High,Completed,2023-11-08 19:00:00
+REC-1052,Joseph White,Customer Support,CUS-35995,2023-02-08,Maintenance Services,41,129.0,5289.0,Partially Paid,joseph.white@customersupport.enterprise.com,Expense Reimbursement,Low,Completed,2023-02-10 07:00:00
+REC-1053,Susan Jackson,IT Operations,IT -66148,2023-12-05,Software Licenses,33,327.3,10800.9,Paid,susan.jackson@itoperations.enterprise.com,Payroll Report,Medium,Completed,2023-12-06 15:00:00
+REC-1054,Thomas Martin,Sales,SAL-30052,2023-08-11,Maintenance Services,34,483.08,16424.72,Partially Paid,thomas.martin@sales.enterprise.com,Inventory Reconciliation,Low,Awaiting Approval,2023-08-12 11:00:00
+REC-1055,CHRISTOPHER ALLEN,Inventory Management,INV-52245,2023-05-06,Office Supplies,29,129.49,3755.21,Overdue,christopher.allen@inventorymanagement.enterprise.com,Inventory Reconciliation,Low,Awaiting Approval,2023-05-07 00:00:00
+REC-1056,Patricia Brown,Customer Support,CUS-37802,2023-07-01,Office Supplies,18,441.36,7944.48,Partially Paid,patricia.brown@customersupport.enterprise.com,Inventory Reconciliation,High,Pending,2023-07-01 14:00:00
+REC-1057,Jessica Harris,Customer Support,CUS-82768,2023-05-04,Employee Benefits,42,358.8,15069.6,Overdue,jessica.harris@customersupport.enterprise.com,Monthly Summary,High,In Progress,2023-05-05 13:00:00
+REC-1058,Elizabeth Miller,Inventory Management,INV-97026,2023-10-25,Employee Benefits,36,270.15,9725.4,Overdue,elizabeth.miller@inventorymanagement.enterprise.com,Expense Reimbursement,Low,In Progress,2023-10-26 10:00:00
+REC-1059,William Taylor,Inventory Management,INV-42951,2023-04-29,Maintenance Services,13,164.62,2140.06,Unpaid,william.taylor@inventorymanagement.enterprise.com,Audit Log,High,Awaiting Approval,2023-04-29 21:00:00
+REC-1060,Charles Moore,IT Operations,IT -47093,2023-02-21,Office Supplies,N/A,186.83,2802.45,Partially Paid,charles.moore@itoperations.enterprise.com,Monthly Summary,Low,Pending,2023-02-22 00:00:00
+REC-1061,Maria Garcia,IT Operations,IT -48290,2023-12-24,Maintenance Services,49,250.53,12275.97,Paid,maria.garcia@itoperations.enterprise.com,Inventory Reconciliation,Medium,Awaiting Approval,2023-12-25 11:00:00
+REC-1062,Patricia Brown,Finance,FIN-43092,2023-09-02,Software Licenses,26,250.96,6524.96,Paid,patricia.brown@finance.enterprise.com,Audit Log,High,In Progress,2023-09-02 09:00:00
+REC-1063,Linda Martinez,IT Operations,IT -64548,2023-11-07,Marketing Material,15,390.09,5851.35,Overdue,linda.martinez@itoperations.enterprise.com,Payroll Report,Medium,In Progress,2023-11-09 09:00:00
+REC-1064,Barbara Anderson,IT Operations,IT -91399,2023-01-31,Maintenance Services,7,474.32,3320.24,Unpaid,barbara.anderson@itoperations.enterprise.com,Expense Reimbursement,High,In Progress,2023-02-02 14:00:00
+REC-1065,Elizabeth Miller,Human Resources,HUM-82350,2023-02-08,Software Licenses,27,230.75,6230.25,Overdue,elizabeth.miller@humanresources.enterprise.com,Tax Filing,High,Pending,2023-02-09 00:00:00
+REC-1066,Thomas Martin,Finance,FIN-40595,2023-05-16,Marketing Material,43,403.91,17368.13,Unpaid,thomas.martin@finance.enterprise.com,Payroll Report,High,Pending,2023-05-18 14:00:00
+REC-1067,William Taylor,Procurement,PRO-28643,2023-02-06,Hardware Peripherals,20,301.57,6031.4,Partially Paid,william.taylor@procurement.enterprise.com,Payroll Report,High,Awaiting Approval,2023-02-07 22:00:00
+REC-1068,Joseph White,Inventory Management,INV-75597,2023-10-04,Employee Benefits,6,303.04,1818.24,Overdue,joseph.white@inventorymanagement.enterprise.com,Expense Reimbursement,Medium,In Progress,2023-10-04 17:00:00
+REC-1069,Christopher Allen,IT Operations,IT -12719,2023-12-11,Marketing Material,3,383.92,1151.76,Unpaid,christopher.allen@itoperations.enterprise.com,Payroll Report,Low,Awaiting Approval,2023-12-12 02:00:00
+REC-1070,Christopher Allen,Customer Support,CUS-93202,2023-09-09,Employee Benefits,23,210.09,4832.07,Partially Paid,christopher.allen@customersupport.enterprise.com,Expense Reimbursement,High,Pending,2023-09-10 00:00:00
+REC-1071,Sarah Thompson,Inventory Management,INV-96846,2023-07-25,Software Licenses,30,53.15,1594.5,Partially Paid,sarah.thompson@inventorymanagement.enterprise.com,Tax Filing,High,Awaiting Approval,2023-07-27 02:00:00
+REC-1072,John Smith,Sales,SAL-81118,2023-08-25,Software Licenses,13,264.04,3432.52,Overdue,john.smith@sales.enterprise.com,Expense Reimbursement,Medium,Completed,2023-08-26 03:00:00
+REC-1073,Robert Johnson,Inventory Management,INV-67424,2023-12-24,Software Licenses,2,486.84,,Unpaid,robert.johnson@inventorymanagement.enterprise.com,Expense Reimbursement,High,In Progress,2023-12-26 03:00:00
+REC-1074,Jessica Harris,Finance,FIN-39451,2023-02-28,Software Licenses,42,417.75,17545.5,Overdue,jessica.harris@finance.enterprise.com,Expense Reimbursement,Medium,In Progress,2023-03-01 17:00:00
+REC-1075,Sarah Thompson,Human Resources,HUM-69871,2023-10-10,Employee Benefits,13,461.72,6002.36,Unpaid,sarah.thompson@humanresources.enterprise.com,Monthly Summary,Medium,Awaiting Approval,2023-10-11 02:00:00
+REC-1076,Charles Moore,Inventory Management,INV-10336,2023-05-25,Office Supplies,38,294.16,11178.08,Overdue,charles.moore@inventorymanagement.enterprise.com,Audit Log,Medium,Awaiting Approval,2023-05-26 22:00:00
+REC-1077,Karen Young,Customer Support,CUS-69682,2023-06-14,Maintenance Services,16,290.18,4642.88,Unpaid,karen.young@customersupport.enterprise.com,Payroll Report,High,In Progress,2023-06-16 06:00:00
+REC-1078,Joseph White,Customer Support,CUS-96991,2023-11-30,Employee Benefits,3,71.86,215.58,Partially Paid,joseph.white@customersupport.enterprise.com,Monthly Summary,Medium,Completed,2023-12-01 14:00:00
+REC-1079,John Smith,Sales,SAL-28894,2023-07-29,Hardware Peripherals,5,240.05,1200.25,Partially Paid,john.smith@sales.enterprise.com,Tax Filing,Low,Awaiting Approval,2023-07-31 14:00:00
+REC-1080,Richard Thomas,Procurement,PRO-98389,2023-10-01,Office Supplies,41,362.17,14848.97,Overdue,richard.thomas@procurement.enterprise.com,Inventory Reconciliation,High,Completed,2023-10-02 04:00:00
+REC-1081,Barbara Anderson,Human Resources,HUM-21846,2023-08-11,Maintenance Services,N/A,437.56,20127.76,Overdue,barbara.anderson@humanresources.enterprise.com,Audit Log,Low,In Progress,2023-08-11 05:00:00
+REC-1082,Maria Garcia,Inventory Management,INV-56984,2023-07-11,Hardware Peripherals,16,270.27,4324.32,Unpaid,maria.garcia@inventorymanagement.enterprise.com,Audit Log,High,Completed,2023-07-13 05:00:00
+REC-1083,Nancy King,Sales,SAL-41566,2023-09-12,Hardware Peripherals,15,235.96,3539.4,Partially Paid,nancy.king@sales.enterprise.com,Payroll Report,Medium,Completed,2023-09-14 00:00:00
+REC-1084,Karen Young,Human Resources,HUM-19681,2023-08-15,Marketing Material,20,323.08,6461.6,Overdue,karen.young@humanresources.enterprise.com,Expense Reimbursement,Medium,Awaiting Approval,2023-08-16 07:00:00
+REC-1085,Joseph White,Procurement,PRO-73335,2023-02-24,Employee Benefits,37,185.89,6877.93,Partially Paid,joseph.white@procurement.enterprise.com,Expense Reimbursement,Medium,Completed,2023-02-26 02:00:00
+REC-1086,John Smith,IT Operations,IT -99889,2023-01-26,Maintenance Services,32,418.09,13378.88,Partially Paid,john.smith@itoperations.enterprise.com,Audit Log,Low,In Progress,2023-01-27 10:00:00
+REC-1087,Nancy King,Inventory Management,INV-98835,2023-12-04,Hardware Peripherals,41,57.61,2362.01,Paid,nancy.king@inventorymanagement.enterprise.com,Tax Filing,Medium,Completed,2023-12-06 11:00:00
+REC-1088,Robert Johnson,Finance,FIN-48680,2023-06-17,Employee Benefits,12,108.39,1300.68,Partially Paid,robert.johnson@finance.enterprise.com,Inventory Reconciliation,Low,In Progress,2023-06-18 10:00:00
+REC-1089,Sarah Thompson,Procurement,PRO-48684,2023-06-23,Employee Benefits,5,78.97,394.85,Unpaid,sarah.thompson@procurement.enterprise.com,Expense Reimbursement,Low,Awaiting Approval,2023-06-24 15:00:00
+REC-1090,Joseph White,Finance,FIN-44663,2023-10-02,Employee Benefits,24,339.69,8152.56,Partially Paid,joseph.white@finance.enterprise.com,Inventory Reconciliation,Medium,In Progress,2023-10-02 10:00:00
+REC-1091,Sarah Thompson,Finance,FIN-91205,2023-10-15,Marketing Material,15,327.35,4910.25,Overdue,sarah.thompson@finance.enterprise.com,Expense Reimbursement,Medium,Awaiting Approval,2023-10-15 18:00:00
+REC-1092,Maria Garcia,Inventory Management,INV-74569,2023-03-01,Hardware Peripherals,35,76.48,2676.8,Overdue,maria.garcia@inventorymanagement.enterprise.com,Tax Filing,Low,Awaiting Approval,2023-03-02 17:00:00
+REC-1093,Robert Johnson,Customer Support,CUS-95841,2023-02-20,Marketing Material,27,470.14,12693.78,Partially Paid,robert.johnson@customersupport.enterprise.com,Monthly Summary,Low,In Progress,2023-02-21 05:00:00
+REC-1094,Elizabeth Miller,Procurement,PRO-57537,2023-02-20,Office Supplies,35,451.83,15814.05,Partially Paid,elizabeth.miller@procurement.enterprise.com,Monthly Summary,Medium,In Progress,2023-02-21 10:00:00
+REC-1095,Thomas Martin,Finance,FIN-96870,2023-04-19,Maintenance Services,39,485.84,18947.76,Paid,thomas.martin@finance.enterprise.com,Tax Filing,High,Pending,2023-04-21 09:00:00
+REC-1096,Karen Young,Human Resources,HUM-86858,2023-04-21,Office Supplies,50,82.3,4115.0,Paid,karen.young@humanresources.enterprise.com,Tax Filing,High,Pending,2023-04-22 18:00:00
+REC-1097,Patricia Brown,Finance,FIN-96646,2023-01-14,Software Licenses,23,397.09,9133.07,Unpaid,patricia.brown@finance.enterprise.com,Inventory Reconciliation,Medium,Completed,2023-01-14 16:00:00
+REC-1098,Robert Johnson,Sales,SAL-65176,2023-09-27,Maintenance Services,5,243.36,1216.8,Partially Paid,robert.johnson@sales.enterprise.com,Inventory Reconciliation,Low,Completed,2023-09-28 08:00:00
+REC-1099,Nancy King,Finance,FIN-96363,2023-09-24,Employee Benefits,42,482.37,20259.54,Paid,nancy.king@finance.enterprise.com,Payroll Report,Medium,Awaiting Approval,2023-09-26 05:00:00
+REC-1100,Thomas Martin,Finance,FIN-20589,2023-06-14,Hardware Peripherals,5,71.83,359.15,Partially Paid,thomas.martin@finance.enterprise.com,Payroll Report,Low,In Progress,2023-06-16 01:00:00
+REC-1101,Jessica Harris,Finance,FIN-24996,2023-12-02,Marketing Material,47,434.09,20402.23,Overdue,jessica.harris@finance.enterprise.com,Payroll Report,High,Awaiting Approval,2023-12-03 18:00:00
+REC-1102,Joseph White,Customer Support,CUS-22463,2023-06-10,Office Supplies,43,134.9,5800.7,Unpaid,joseph.white@customersupport.enterprise.com,Expense Reimbursement,Medium,Completed,2023-06-10 19:00:00
+REC-1103,James Wilson,Customer Support,CUS-22656,2023-07-10,Marketing Material,4,297.37,1189.48,Partially Paid,james.wilson@customersupport.enterprise.com,Expense Reimbursement,High,Awaiting Approval,2023-07-11 03:00:00
+REC-1104,Jessica Harris,Procurement,PRO-16743,2023-05-28,Office Supplies,23,60.76,1397.48,Unpaid,jessica.harris@procurement.enterprise.com,Audit Log,Low,Awaiting Approval,2023-05-29 10:00:00
+REC-1105,Susan Jackson,Procurement,PRO-82910,2023-07-08,Office Supplies,37,120.82,4470.34,Overdue,susan.jackson@procurement.enterprise.com,Inventory Reconciliation,Low,Completed,2023-07-09 18:00:00
+REC-1106,William Taylor,Finance,FIN-33647,2023-05-20,Office Supplies,22,182.0,4004.0,Unpaid,william.taylor@finance.enterprise.com,Audit Log,Low,Awaiting Approval,2023-05-21 03:00:00
+REC-1107,John Smith,Finance,FIN-79531,2023-04-21,Employee Benefits,30,177.04,5311.2,Partially Paid,john.smith@finance.enterprise.com,Tax Filing,Low,In Progress,2023-04-23 01:00:00
+REC-1108,Maria Garcia,Human Resources,HUM-30632,2023-11-13,Maintenance Services,6,143.33,859.98,Overdue,maria.garcia@humanresources.enterprise.com,Payroll Report,Low,Awaiting Approval,2023-11-14 04:00:00
+REC-1109,Charles Moore,Finance,FIN-55242,2023-08-09,Office Supplies,44,342.46,15068.24,Overdue,charles.moore@finance.enterprise.com,Inventory Reconciliation,Low,In Progress,2023-08-09 06:00:00
+REC-1110,Nancy King,Finance,FIN-11007,2023-04-15,Hardware Peripherals,50,77.25,3862.5,Partially Paid,nancy.king@finance.enterprise.com,Tax Filing,Medium,Completed,2023-04-15 10:00:00
+REC-1111,Jessica Harris,Human Resources,HUM-26932,2023-07-14,Maintenance Services,15,255.13,,Partially Paid,jessica.harris@humanresources.enterprise.com,Monthly Summary,Medium,Completed,2023-07-15 21:00:00
+REC-1112,James Wilson,Procurement,PRO-51033,2023-10-22,Marketing Material,26,357.65,9298.9,Overdue,james.wilson@procurement.enterprise.com,Tax Filing,High,Awaiting Approval,2023-10-22 15:00:00
+REC-1113,Patricia Brown,Procurement,PRO-91018,2023-08-24,Office Supplies,6,223.99,1343.94,Paid,patricia.brown@procurement.enterprise.com,Audit Log,Medium,Awaiting Approval,2023-08-26 08:00:00
+REC-1114,Barbara Anderson,Sales,SAL-54500,2023-04-24,Hardware Peripherals,5,260.14,1300.7,Paid,barbara.anderson@sales.enterprise.com,Inventory Reconciliation,Low,Pending,2023-04-25 09:00:00
+REC-1115,Robert Johnson,Human Resources,HUM-23474,2023-03-16,Hardware Peripherals,12,305.18,3662.16,Paid,robert.johnson@humanresources.enterprise.com,Audit Log,Low,Awaiting Approval,2023-03-17 14:00:00
+REC-1116,Christopher Allen,Customer Support,CUS-99277,2023-10-17,Maintenance Services,40,168.37,6734.8,Partially Paid,christopher.allen@customersupport.enterprise.com,Audit Log,Medium,Completed,2023-10-19 03:00:00
+REC-1117,Barbara Anderson,Procurement,PRO-46002,2023-10-30,Office Supplies,33,46.35,1529.55,Overdue,barbara.anderson@procurement.enterprise.com,Payroll Report,High,Completed,2023-10-31 01:00:00
+REC-1118,James Wilson,Sales,SAL-21835,2023-11-11,Marketing Material,25,236.73,5918.25,Paid,james.wilson@sales.enterprise.com,Payroll Report,Low,Pending,2023-11-12 16:00:00
+REC-1119,Charles Moore,Human Resources,HUM-18109,2023-08-19,Office Supplies,46,51.32,2360.72,Unpaid,charles.moore@humanresources.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-08-20 08:00:00
+REC-1120,Nancy King,Human Resources,HUM-57696,2023-07-10,Employee Benefits,27,389.49,10516.23,Paid,nancy.king@humanresources.enterprise.com,Expense Reimbursement,Low,In Progress,2023-07-10 14:00:00
+REC-1121,Karen Young,Sales,SAL-60667,2023-05-26,Maintenance Services,43,482.56,20750.08,Unpaid,karen.young@sales.enterprise.com,Tax Filing,High,Pending,2023-05-27 07:00:00
+REC-1122,Joseph White,Human Resources,HUM-87993,2023-12-29,Office Supplies,36,194.57,7004.52,Partially Paid,joseph.white@humanresources.enterprise.com,Audit Log,Low,Completed,2023-12-30 20:00:00
+REC-1123,Charles Moore,Inventory Management,INV-12389,2023-07-05,Hardware Peripherals,14,177.45,2484.3,Overdue,charles.moore@inventorymanagement.enterprise.com,Audit Log,High,Pending,2023-07-05 19:00:00
+REC-1124,Linda Martinez,IT Operations,IT -80748,2023-09-27,Maintenance Services,22,439.43,9667.46,Unpaid,linda.martinez@itoperations.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-09-27 12:00:00
+REC-1125,Nancy King,Procurement,PRO-31697,2023-08-13,Employee Benefits,24,341.42,8194.08,Unpaid,nancy.king@procurement.enterprise.com,Payroll Report,Low,In Progress,2023-08-15 01:00:00
+REC-1126,Elizabeth Miller,IT Operations,IT -41348,2023-06-08,Hardware Peripherals,24,342.37,8216.88,Overdue,elizabeth.miller@itoperations.enterprise.com,Payroll Report,Medium,Awaiting Approval,2023-06-10 00:00:00
+REC-1127,Patricia Brown,Procurement,PRO-36174,2023-11-06,Office Supplies,4,324.18,1296.72,Partially Paid,patricia.brown@procurement.enterprise.com,Inventory Reconciliation,High,Completed,2023-11-06 23:00:00
+REC-1128,Patricia Brown,Inventory Management,INV-68893,2023-09-20,Employee Benefits,6,473.74,2842.44,Unpaid,patricia.brown@inventorymanagement.enterprise.com,Payroll Report,Medium,Completed,2023-09-21 07:00:00
+REC-1129,Charles Moore,Inventory Management,INV-40903,2023-07-17,Office Supplies,15,23.81,357.15,Paid,charles.moore@inventorymanagement.enterprise.com,Expense Reimbursement,Low,In Progress,2023-07-17 12:00:00
+REC-1130,Barbara Anderson,Procurement,PRO-71925,2023-12-23,Maintenance Services,31,229.81,7124.11,Paid,barbara.anderson@procurement.enterprise.com,Monthly Summary,High,In Progress,2023-12-23 18:00:00
+REC-1131,Karen Young,Sales,SAL-89807,2023-09-28,Software Licenses,50,151.17,7558.5,Partially Paid,karen.young@sales.enterprise.com,Monthly Summary,High,Pending,2023-09-29 16:00:00
+REC-1132,Nancy King,Customer Support,CUS-18232,2023-02-26,Marketing Material,35,18.05,,Unpaid,nancy.king@customersupport.enterprise.com,Expense Reimbursement,High,In Progress,2023-02-27 19:00:00
+REC-1133,Susan Jackson,Human Resources,HUM-84798,2023-08-02,Maintenance Services,43,51.95,2233.85,Partially Paid,susan.jackson@humanresources.enterprise.com,Monthly Summary,Low,Completed,2023-08-03 06:00:00
+REC-1134,Maria Garcia,Sales,SAL-60709,2023-07-11,Maintenance Services,2,184.98,369.96,Paid,maria.garcia@sales.enterprise.com,Tax Filing,High,Completed,2023-07-12 22:00:00
+REC-1135,Richard Thomas,Human Resources,HUM-15811,2023-06-30,Office Supplies,42,95.79,4023.18,Overdue,richard.thomas@humanresources.enterprise.com,Expense Reimbursement,Medium,Pending,2023-07-01 02:00:00
+REC-1136,THOMAS MARTIN,Finance,FIN-48462,2023-04-14,Hardware Peripherals,3,164.64,493.92,Partially Paid,thomas.martin@finance.enterprise.com,Inventory Reconciliation,Medium,Awaiting Approval,2023-04-14 18:00:00
+REC-1137,Barbara Anderson,Inventory Management,INV-16265,2023-12-02,Office Supplies,8,401.68,3213.44,Overdue,barbara.anderson@inventorymanagement.enterprise.com,Payroll Report,Low,Awaiting Approval,2023-12-03 11:00:00
+REC-1138,Patricia Brown,Customer Support,CUS-75211,2023-07-08,Office Supplies,6,366.27,2197.62,Paid,patricia.brown@customersupport.enterprise.com,Payroll Report,Low,Pending,2023-07-10 03:00:00
+REC-1139,Linda Martinez,Finance,FIN-52981,2023-12-05,Office Supplies,29,305.28,8853.12,Overdue,linda.martinez@finance.enterprise.com,Audit Log,Low,Awaiting Approval,2023-12-06 08:00:00
+REC-1140,Susan Jackson,IT Operations,IT -67008,2023-05-21,Software Licenses,5,338.88,1694.4,Overdue,susan.jackson@itoperations.enterprise.com,Tax Filing,Low,Pending,2023-05-21 22:00:00
+REC-1141,Nancy King,Sales,SAL-67432,2023-01-18,Software Licenses,16,391.47,6263.52,Partially Paid,nancy.king@sales.enterprise.com,Tax Filing,Medium,Completed,2023-01-19 19:00:00
+REC-1142,Thomas Martin,Inventory Management,INV-58760,2023-08-16,Marketing Material,9,269.44,2424.96,Overdue,thomas.martin@inventorymanagement.enterprise.com,Tax Filing,Low,In Progress,2023-08-16 18:00:00
+REC-1143,John Smith,Sales,SAL-34385,2023-09-13,Employee Benefits,36,67.7,2437.2,Partially Paid,john.smith@sales.enterprise.com,Expense Reimbursement,Medium,Pending,2023-09-15 08:00:00
+REC-1144,Sarah Thompson,Human Resources,HUM-26074,2023-03-11,Employee Benefits,12,450.35,5404.2,Overdue,sarah.thompson@humanresources.enterprise.com,Monthly Summary,Low,In Progress,2023-03-12 21:00:00
+REC-1145,James Wilson,IT Operations,IT -81063,2023-05-29,Hardware Peripherals,46,357.69,16453.74,Unpaid,james.wilson@itoperations.enterprise.com,Tax Filing,Low,Pending,2023-05-29 17:00:00
+REC-1146,Robert Johnson,Human Resources,HUM-74752,2023-01-14,Marketing Material,37,190.77,7058.49,Unpaid,robert.johnson@humanresources.enterprise.com,Inventory Reconciliation,High,Completed,2023-01-15 07:00:00
+REC-1147,Sarah Thompson,IT Operations,IT -63843,2023-07-29,Software Licenses,9,486.47,4378.23,Paid,sarah.thompson@itoperations.enterprise.com,Payroll Report,Medium,In Progress,2023-07-30 03:00:00
+REC-1148,Karen Young,Sales,SAL-87042,2023-04-04,Employee Benefits,33,456.25,15056.25,Paid,karen.young@sales.enterprise.com,Monthly Summary,Low,Pending,2023-04-05 00:00:00
+REC-1149,Richard Thomas,Sales,SAL-39552,2023-06-27,Office Supplies,6,132.8,796.8,Partially Paid,richard.thomas@sales.enterprise.com,Audit Log,Low,In Progress,2023-06-29 08:00:00
+REC-1150,Charles Moore,Sales,SAL-32103,2023-10-31,Hardware Peripherals,N/A,332.78,3660.58,Partially Paid,charles.moore@sales.enterprise.com,Inventory Reconciliation,High,Completed,2023-11-01 00:00:00
+REC-1151,Christopher Allen,Inventory Management,INV-95344,2023-04-18,Employee Benefits,40,323.11,12924.4,Overdue,christopher.allen@inventorymanagement.enterprise.com,Expense Reimbursement,Low,In Progress,2023-04-20 12:00:00
+REC-1152,Sarah Thompson,Human Resources,HUM-99783,2023-07-27,Employee Benefits,5,347.42,1737.1,Unpaid,sarah.thompson@humanresources.enterprise.com,Payroll Report,Medium,Awaiting Approval,2023-07-28 15:00:00
+REC-1153,Nancy King,Human Resources,HUM-50970,2023-06-13,Office Supplies,26,74.08,1926.08,Partially Paid,nancy.king@humanresources.enterprise.com,Inventory Reconciliation,Low,Completed,2023-06-14 20:00:00
+REC-1154,Linda Martinez,Inventory Management,INV-68929,2023-05-07,Software Licenses,4,152.2,608.8,Overdue,linda.martinez@inventorymanagement.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-05-07 15:00:00
+REC-1155,Christopher Allen,Sales,SAL-50988,2023-04-08,Employee Benefits,33,238.74,7878.42,Partially Paid,christopher.allen@sales.enterprise.com,Payroll Report,High,Completed,2023-04-09 07:00:00
+REC-1156,Elizabeth Miller,Human Resources,HUM-86460,2023-06-30,Software Licenses,19,252.5,4797.5,Overdue,elizabeth.miller@humanresources.enterprise.com,Tax Filing,Low,Completed,2023-06-30 08:00:00
+REC-1157,William Taylor,Sales,SAL-57943,2023-07-26,Software Licenses,26,35.07,911.82,Unpaid,william.taylor@sales.enterprise.com,Tax Filing,Low,In Progress,2023-07-26 16:00:00
+REC-1158,Thomas Martin,Procurement,PRO-82070,2023-05-24,Maintenance Services,40,68.22,2728.8,Paid,thomas.martin@procurement.enterprise.com,Payroll Report,Medium,In Progress,2023-05-26 07:00:00
+REC-1159,Robert Johnson,Human Resources,HUM-88966,2023-09-18,Marketing Material,3,32.2,96.6,Unpaid,robert.johnson@humanresources.enterprise.com,Expense Reimbursement,Medium,Awaiting Approval,2023-09-19 22:00:00
+REC-1160,Nancy King,IT Operations,IT -28321,2023-06-17,Office Supplies,11,202.55,2228.05,Partially Paid,nancy.king@itoperations.enterprise.com,Inventory Reconciliation,Medium,Awaiting Approval,2023-06-19 17:00:00
+REC-1161,Sarah Thompson,Procurement,PRO-12180,2023-07-08,Maintenance Services,8,490.15,3921.2,Partially Paid,sarah.thompson@procurement.enterprise.com,Expense Reimbursement,Low,Completed,2023-07-10 01:00:00
+REC-1162,Christopher Allen,IT Operations,IT -39824,2023-01-27,Employee Benefits,11,266.87,2935.57,Overdue,christopher.allen@itoperations.enterprise.com,Audit Log,Low,Pending,2023-01-27 21:00:00
+REC-1163,Linda Martinez,Human Resources,HUM-12482,2023-08-14,Employee Benefits,10,212.35,2123.5,Unpaid,linda.martinez@humanresources.enterprise.com,Payroll Report,Low,Awaiting Approval,2023-08-16 10:00:00
+REC-1164,Robert Johnson,IT Operations,IT -37176,2023-10-15,Maintenance Services,31,267.48,8291.88,Partially Paid,robert.johnson@itoperations.enterprise.com,Audit Log,Medium,In Progress,2023-10-16 21:00:00
+REC-1165,William Taylor,IT Operations,IT -73462,2023-04-09,Office Supplies,36,156.26,5625.36,Partially Paid,william.taylor@itoperations.enterprise.com,Tax Filing,Low,Pending,2023-04-11 04:00:00
+REC-1166,Richard Thomas,Customer Support,CUS-55718,2023-10-14,Office Supplies,N/A,69.72,1324.68,Overdue,richard.thomas@customersupport.enterprise.com,Payroll Report,Medium,Pending,2023-10-15 18:00:00
+REC-1167,James Wilson,Inventory Management,INV-67983,2023-12-02,Maintenance Services,31,114.85,3560.35,Partially Paid,james.wilson@inventorymanagement.enterprise.com,Inventory Reconciliation,Low,In Progress,2023-12-02 17:00:00
+REC-1168,Christopher Allen,Human Resources,HUM-41779,2023-01-26,Marketing Material,15,322.59,4838.85,Paid,christopher.allen@humanresources.enterprise.com,Monthly Summary,Medium,In Progress,2023-01-28 19:00:00
+REC-1169,Robert Johnson,Finance,FIN-82135,2023-03-22,Maintenance Services,31,243.95,7562.45,Unpaid,robert.johnson@finance.enterprise.com,Tax Filing,Medium,In Progress,2023-03-24 07:00:00
+REC-1170,James Wilson,Sales,SAL-85252,2023-04-29,Maintenance Services,47,426.66,20053.02,Paid,james.wilson@sales.enterprise.com,Audit Log,Medium,Pending,2023-04-29 20:00:00
+REC-1171,Joseph White,Procurement,PRO-74930,2023-04-06,Office Supplies,3,14.54,43.62,Paid,joseph.white@procurement.enterprise.com,Tax Filing,Medium,Awaiting Approval,2023-04-08 17:00:00
+REC-1172,Sarah Thompson,Human Resources,HUM-76088,2023-08-28,Hardware Peripherals,8,172.04,1376.32,Overdue,sarah.thompson@humanresources.enterprise.com,Expense Reimbursement,Medium,Pending,2023-08-28 09:00:00
+REC-1173,Barbara Anderson,IT Operations,IT -98395,2023-04-09,Marketing Material,41,449.55,18431.55,Overdue,barbara.anderson@itoperations.enterprise.com,Inventory Reconciliation,Medium,Completed,2023-04-10 07:00:00
+REC-1174,Patricia Brown,Human Resources,HUM-72580,2023-06-15,Software Licenses,17,197.95,3365.15,Overdue,patricia.brown@humanresources.enterprise.com,Tax Filing,Medium,In Progress,2023-06-16 21:00:00
+REC-1175,John Smith,Inventory Management,INV-95679,2023-07-04,Hardware Peripherals,4,337.22,1348.88,Overdue,john.smith@inventorymanagement.enterprise.com,Tax Filing,High,Awaiting Approval,2023-07-06 18:00:00
+REC-1176,Barbara Anderson,Sales,SAL-25389,2023-11-24,Office Supplies,40,118.22,4728.8,Unpaid,barbara.anderson@sales.enterprise.com,Payroll Report,High,Awaiting Approval,2023-11-26 09:00:00
+REC-1177,Susan Jackson,Customer Support,CUS-81989,2023-08-30,Maintenance Services,14,383.31,5366.34,Paid,susan.jackson@customersupport.enterprise.com,Inventory Reconciliation,Medium,In Progress,2023-08-30 22:00:00
+REC-1178,Linda Martinez,Finance,FIN-81781,2023-09-16,Marketing Material,35,83.43,2920.05,Partially Paid,linda.martinez@finance.enterprise.com,Inventory Reconciliation,Medium,Completed,2023-09-18 02:00:00
+REC-1179,Christopher Allen,Customer Support,CUS-21919,2023-09-19,Software Licenses,30,74.65,2239.5,Overdue,christopher.allen@customersupport.enterprise.com,Payroll Report,Low,Completed,2023-09-21 02:00:00
+REC-1180,Barbara Anderson,Sales,SAL-12853,2023-07-22,Software Licenses,48,116.77,5604.96,Paid,barbara.anderson@sales.enterprise.com,Monthly Summary,Medium,In Progress,2023-07-24 05:00:00
+REC-1181,Maria Garcia,Finance,FIN-71875,2023-01-17,Employee Benefits,12,386.8,4641.6,Overdue,maria.garcia@finance.enterprise.com,Tax Filing,Medium,Awaiting Approval,2023-01-18 10:00:00
+REC-1182,Karen Young,Human Resources,HUM-95660,2023-06-28,Hardware Peripherals,35,202.6,7091.0,Unpaid,karen.young@humanresources.enterprise.com,Expense Reimbursement,High,Completed,2023-06-28 05:00:00
+REC-1183,Thomas Martin,Sales,SAL-81361,2023-08-06,Employee Benefits,15,131.28,1969.2,Partially Paid,thomas.martin@sales.enterprise.com,Audit Log,Medium,Pending,2023-08-08 16:00:00
+REC-1184,Maria Garcia,Procurement,PRO-96533,2023-08-03,Software Licenses,16,110.98,1775.68,Paid,maria.garcia@procurement.enterprise.com,Inventory Reconciliation,High,Awaiting Approval,2023-08-05 10:00:00
+REC-1185,Maria Garcia,Human Resources,HUM-15798,2023-07-25,Hardware Peripherals,35,116.46,4076.1,Paid,maria.garcia@humanresources.enterprise.com,Audit Log,Low,In Progress,2023-07-26 05:00:00
+REC-1186,Christopher Allen,Inventory Management,INV-85690,2023-11-03,Office Supplies,16,157.86,2525.76,Unpaid,christopher.allen@inventorymanagement.enterprise.com,Expense Reimbursement,Low,Pending,2023-11-05 00:00:00
+REC-1187,Maria Garcia,IT Operations,IT -87550,2023-03-31,Maintenance Services,28,282.37,7906.36,Paid,maria.garcia@itoperations.enterprise.com,Tax Filing,Low,Awaiting Approval,2023-04-02 06:00:00
+REC-1188,Jessica Harris,Customer Support,CUS-29558,2023-06-03,Hardware Peripherals,49,273.58,13405.42,Unpaid,jessica.harris@customersupport.enterprise.com,Audit Log,Medium,Pending,2023-06-04 18:00:00
+REC-1189,Karen Young,Customer Support,CUS-64592,2023-10-13,Hardware Peripherals,25,129.0,3225.0,Unpaid,karen.young@customersupport.enterprise.com,Tax Filing,Low,Completed,2023-10-14 21:00:00
+REC-1190,James Wilson,IT Operations,IT -34966,2023-01-27,Employee Benefits,44,306.44,13483.36,Paid,james.wilson@itoperations.enterprise.com,Monthly Summary,High,Pending,2023-01-28 15:00:00
+REC-1191,Richard Thomas,Inventory Management,INV-12009,2023-04-19,Maintenance Services,8,375.97,3007.76,Overdue,richard.thomas@inventorymanagement.enterprise.com,Audit Log,Low,Pending,2023-04-20 08:00:00
+REC-1192,Karen Young,Inventory Management,INV-47101,2023-07-14,Marketing Material,42,186.04,7813.68,Partially Paid,karen.young@inventorymanagement.enterprise.com,Tax Filing,Low,Awaiting Approval,2023-07-15 20:00:00
+REC-1193,Sarah Thompson,Procurement,PRO-51973,2023-04-15,Office Supplies,27,32.4,874.8,Unpaid,sarah.thompson@procurement.enterprise.com,Expense Reimbursement,High,Completed,2023-04-16 04:00:00
+REC-1194,Christopher Allen,IT Operations,IT -64732,2023-06-01,Hardware Peripherals,22,122.71,2699.62,Unpaid,christopher.allen@itoperations.enterprise.com,Payroll Report,Low,In Progress,2023-06-01 21:00:00
+REC-1195,Sarah Thompson,Sales,SAL-94108,2023-09-09,Hardware Peripherals,47,399.54,18778.38,Unpaid,sarah.thompson@sales.enterprise.com,Audit Log,Low,Awaiting Approval,2023-09-10 02:00:00
+REC-1196,Karen Young,Sales,SAL-17698,2023-09-26,Software Licenses,43,33.77,1452.11,Paid,karen.young@sales.enterprise.com,Payroll Report,High,Pending,2023-09-26 06:00:00
+REC-1197,John Smith,Human Resources,HUM-76287,2023-08-22,Software Licenses,40,322.49,12899.6,Overdue,john.smith@humanresources.enterprise.com,Expense Reimbursement,Medium,Completed,2023-08-22 12:00:00
+REC-1198,Jessica Harris,Finance,FIN-12192,2023-09-29,Office Supplies,35,488.96,17113.6,Paid,jessica.harris@finance.enterprise.com,Inventory Reconciliation,Low,Awaiting Approval,2023-09-30 11:00:00
+REC-1199,Linda Martinez,IT Operations,IT -29516,2023-05-04,Marketing Material,34,133.68,4545.12,Partially Paid,linda.martinez@itoperations.enterprise.com,Tax Filing,Medium,Completed,2023-05-05 06:00:00
+REC-1200,Thomas Martin,IT Operations,IT -41877,2023-12-23,Office Supplies,44,415.75,18293.0,Paid,thomas.martin@itoperations.enterprise.com,Expense Reimbursement,Low,Completed,2023-12-23 13:00:00
+REC-1201,Joseph White,IT Operations,IT -72390,2023-01-29,Software Licenses,45,93.98,4229.1,Overdue,joseph.white@itoperations.enterprise.com,Payroll Report,Low,In Progress,2023-01-31 09:00:00
+REC-1202,Linda Martinez,IT Operations,IT -15577,2023-04-28,Maintenance Services,37,243.0,8991.0,Paid,linda.martinez@itoperations.enterprise.com,Monthly Summary,Low,In Progress,2023-04-29 17:00:00
+REC-1203,Maria Garcia,Human Resources,HUM-51220,2023-01-09,Marketing Material,10,378.6,3786.0,Overdue,maria.garcia@humanresources.enterprise.com,Monthly Summary,Medium,Pending,2023-01-10 19:00:00
+REC-1204,Joseph White,Sales,SAL-80852,2023-06-19,Maintenance Services,9,397.34,3576.06,Paid,joseph.white@sales.enterprise.com,Inventory Reconciliation,Low,In Progress,2023-06-19 16:00:00
+REC-1205,Elizabeth Miller,Procurement,PRO-19963,2023-06-24,Marketing Material,39,204.38,7970.82,Partially Paid,elizabeth.miller@procurement.enterprise.com,Monthly Summary,Low,In Progress,2023-06-26 00:00:00
+REC-1206,Susan Jackson,IT Operations,IT -59207,2023-08-10,Maintenance Services,38,333.73,12681.74,Paid,susan.jackson@itoperations.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-08-12 03:00:00
+REC-1207,William Taylor,Human Resources,HUM-59807,2023-12-31,Hardware Peripherals,48,200.91,9643.68,Partially Paid,william.taylor@humanresources.enterprise.com,Monthly Summary,High,Completed,2024-01-01 16:00:00
+REC-1208,William Taylor,Finance,FIN-27367,2023-02-14,Employee Benefits,29,282.92,8204.68,Overdue,william.taylor@finance.enterprise.com,Monthly Summary,High,Completed,2023-02-15 04:00:00
+REC-1209,Nancy King,IT Operations,IT -52523,2023-07-17,Office Supplies,27,200.02,5400.54,Paid,nancy.king@itoperations.enterprise.com,Expense Reimbursement,Low,Pending,2023-07-18 13:00:00
+REC-1210,Joseph White,Human Resources,HUM-28198,2023-05-18,Office Supplies,32,81.51,2608.32,Unpaid,joseph.white@humanresources.enterprise.com,Payroll Report,Medium,Awaiting Approval,2023-05-19 05:00:00
+REC-1211,James Wilson,Inventory Management,INV-42990,2023-05-07,Maintenance Services,32,300.97,,Unpaid,james.wilson@inventorymanagement.enterprise.com,Payroll Report,High,Pending,2023-05-08 19:00:00
+REC-1212,Joseph White,Inventory Management,INV-91289,2023-07-14,Employee Benefits,22,221.0,4862.0,Unpaid,joseph.white@inventorymanagement.enterprise.com,Tax Filing,Medium,Pending,2023-07-15 17:00:00
+REC-1213,Joseph White,Inventory Management,INV-48200,2023-12-22,Employee Benefits,37,393.17,14547.29,Partially Paid,joseph.white@inventorymanagement.enterprise.com,Payroll Report,Medium,Awaiting Approval,2023-12-23 20:00:00
+REC-1214,Christopher Allen,Human Resources,HUM-87624,2023-10-07,Maintenance Services,50,279.55,13977.5,Overdue,christopher.allen@humanresources.enterprise.com,Expense Reimbursement,High,Awaiting Approval,2023-10-08 00:00:00
+REC-1215,James Wilson,Procurement,PRO-63627,2023-12-11,Hardware Peripherals,41,158.39,6493.99,Partially Paid,james.wilson@procurement.enterprise.com,Expense Reimbursement,High,Awaiting Approval,2023-12-12 16:00:00
+REC-1216,Nancy King,Customer Support,CUS-86315,2023-07-25,Marketing Material,45,214.97,9673.65,Paid,nancy.king@customersupport.enterprise.com,Tax Filing,Low,Completed,2023-07-26 00:00:00
+REC-1217,Susan Jackson,Human Resources,HUM-94803,2023-11-10,Marketing Material,42,341.96,14362.32,Overdue,susan.jackson@humanresources.enterprise.com,Tax Filing,Medium,Completed,2023-11-10 02:00:00
+REC-1218,Elizabeth Miller,IT Operations,IT -77999,2023-10-13,Maintenance Services,37,118.31,4377.47,Partially Paid,elizabeth.miller@itoperations.enterprise.com,Payroll Report,Medium,Pending,2023-10-14 17:00:00
+REC-1219,Sarah Thompson,Finance,FIN-48722,2023-08-01,Software Licenses,47,79.42,3732.74,Partially Paid,sarah.thompson@finance.enterprise.com,Tax Filing,Medium,Pending,2023-08-02 12:00:00
+REC-1220,Sarah Thompson,Finance,FIN-67431,2023-12-23,Office Supplies,5,157.13,785.65,Paid,sarah.thompson@finance.enterprise.com,Monthly Summary,Medium,Completed,2023-12-25 10:00:00
+REC-1221,Elizabeth Miller,IT Operations,IT -32865,2023-10-10,Office Supplies,36,218.92,7881.12,Overdue,elizabeth.miller@itoperations.enterprise.com,Audit Log,Medium,Pending,2023-10-10 17:00:00
+REC-1222,Jessica Harris,Customer Support,CUS-13826,2023-11-11,Employee Benefits,38,220.48,8378.24,Paid,jessica.harris@customersupport.enterprise.com,Expense Reimbursement,High,Pending,2023-11-12 00:00:00
+REC-1223,James Wilson,IT Operations,IT -23336,2023-10-02,Office Supplies,21,106.57,2237.97,Paid,james.wilson@itoperations.enterprise.com,Tax Filing,Low,Awaiting Approval,2023-10-03 15:00:00
+REC-1224,Richard Thomas,IT Operations,IT -60939,2023-11-09,Marketing Material,8,180.48,1443.84,Overdue,richard.thomas@itoperations.enterprise.com,Inventory Reconciliation,High,In Progress,2023-11-11 04:00:00
+REC-1225,Robert Johnson,Inventory Management,INV-25448,2023-05-03,Software Licenses,12,192.92,2315.04,Unpaid,robert.johnson@inventorymanagement.enterprise.com,Inventory Reconciliation,Medium,Awaiting Approval,2023-05-05 00:00:00
+REC-1226,Joseph White,Customer Support,CUS-34347,2023-09-07,Marketing Material,45,460.39,20717.55,Unpaid,joseph.white@customersupport.enterprise.com,Inventory Reconciliation,High,Awaiting Approval,2023-09-08 15:00:00
+REC-1227,Richard Thomas,Procurement,PRO-69113,2023-11-14,Office Supplies,1,247.46,247.46,Unpaid,richard.thomas@procurement.enterprise.com,Payroll Report,Low,Awaiting Approval,2023-11-15 04:00:00
+REC-1228,Jessica Harris,Sales,SAL-68176,2023-09-08,Software Licenses,37,25.12,929.44,Unpaid,jessica.harris@sales.enterprise.com,Tax Filing,High,In Progress,2023-09-08 20:00:00
+REC-1229,Patricia Brown,Procurement,PRO-69942,2023-10-17,Employee Benefits,36,260.29,9370.44,Paid,patricia.brown@procurement.enterprise.com,Tax Filing,Low,In Progress,2023-10-19 10:00:00
+REC-1230,Maria Garcia,Procurement,PRO-67850,2023-10-07,Employee Benefits,7,370.63,2594.41,Unpaid,maria.garcia@procurement.enterprise.com,Tax Filing,High,Awaiting Approval,2023-10-07 23:00:00
+REC-1231,James Wilson,Customer Support,CUS-25386,2023-05-02,Maintenance Services,38,347.68,13211.84,Overdue,james.wilson@customersupport.enterprise.com,Audit Log,Low,Pending,2023-05-02 20:00:00
+REC-1232,Maria Garcia,IT Operations,IT -55982,2023-09-30,Marketing Material,35,92.5,3237.5,Partially Paid,maria.garcia@itoperations.enterprise.com,Tax Filing,Low,In Progress,2023-10-01 17:00:00
+REC-1233,Linda Martinez,Human Resources,HUM-63948,2023-01-31,Maintenance Services,9,353.7,3183.3,Unpaid,linda.martinez@humanresources.enterprise.com,Audit Log,High,In Progress,2023-02-01 00:00:00
+REC-1234,Joseph White,Customer Support,CUS-28634,2023-10-23,Office Supplies,41,212.97,8731.77,Overdue,joseph.white@customersupport.enterprise.com,Monthly Summary,Low,Completed,2023-10-24 22:00:00
+REC-1235,William Taylor,Sales,SAL-58374,2023-08-21,Office Supplies,38,11.21,425.98,Paid,william.taylor@sales.enterprise.com,Expense Reimbursement,Medium,In Progress,2023-08-21 20:00:00
+REC-1236,Joseph White,Human Resources,HUM-66314,2023-04-19,Office Supplies,21,415.89,8733.69,Partially Paid,joseph.white@humanresources.enterprise.com,Inventory Reconciliation,Low,Pending,2023-04-21 04:00:00
+REC-1237,Richard Thomas,Sales,SAL-16345,2023-01-24,Maintenance Services,30,17.98,539.4,Unpaid,richard.thomas@sales.enterprise.com,Payroll Report,Medium,Completed,2023-01-25 07:00:00
+REC-1238,Robert Johnson,Sales,SAL-49566,2023-03-23,Software Licenses,42,186.61,7837.62,Paid,robert.johnson@sales.enterprise.com,Tax Filing,Low,Pending,2023-03-23 12:00:00
+REC-1239,Barbara Anderson,Sales,SAL-40689,2023-08-08,Software Licenses,46,56.64,2605.44,Unpaid,barbara.anderson@sales.enterprise.com,Payroll Report,High,Pending,2023-08-10 10:00:00
+REC-1240,Thomas Martin,Finance,FIN-11056,2023-12-23,Software Licenses,28,350.08,9802.24,Overdue,thomas.martin@finance.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-12-23 16:00:00
+REC-1241,Linda Martinez,Finance,FIN-51071,2023-07-08,Hardware Peripherals,25,389.0,9725.0,Unpaid,linda.martinez@finance.enterprise.com,Expense Reimbursement,Low,Pending,2023-07-08 14:00:00
+REC-1242,John Smith,IT Operations,IT -95199,2023-03-26,Office Supplies,47,114.4,5376.8,Unpaid,john.smith@itoperations.enterprise.com,Payroll Report,Low,Awaiting Approval,2023-03-27 04:00:00
+REC-1243,Linda Martinez,Human Resources,HUM-26142,2023-10-29,Employee Benefits,23,481.99,11085.77,Partially Paid,linda.martinez@humanresources.enterprise.com,Audit Log,High,In Progress,2023-10-31 17:00:00
+REC-1244,Karen Young,IT Operations,IT -88644,2023-11-08,Maintenance Services,2,425.47,850.94,Partially Paid,karen.young@itoperations.enterprise.com,Audit Log,Low,Pending,2023-11-10 09:00:00
+REC-1245,Maria Garcia,Procurement,PRO-41370,2023-09-11,Software Licenses,16,254.8,4076.8,Paid,maria.garcia@procurement.enterprise.com,Inventory Reconciliation,High,In Progress,2023-09-12 09:00:00
+REC-1246,Christopher Allen,Customer Support,CUS-57895,2023-10-07,Hardware Peripherals,49,240.8,11799.2,Paid,christopher.allen@customersupport.enterprise.com,Monthly Summary,Low,Completed,2023-10-07 22:00:00
+REC-1247,Maria Garcia,Finance,FIN-62163,2023-09-17,Maintenance Services,46,255.51,11753.46,Overdue,maria.garcia@finance.enterprise.com,Payroll Report,Low,Awaiting Approval,2023-09-17 15:00:00
+REC-1248,Karen Young,IT Operations,IT -30012,2023-05-23,Office Supplies,6,260.54,1563.24,Unpaid,karen.young@itoperations.enterprise.com,Audit Log,Low,In Progress,2023-05-24 04:00:00
+REC-1249,James Wilson,Inventory Management,INV-67342,2023-05-03,Hardware Peripherals,6,463.07,2778.42,Paid,james.wilson@inventorymanagement.enterprise.com,Payroll Report,Low,Completed,2023-05-03 21:00:00
+REC-1250,Patricia Brown,Finance,FIN-11660,2023-12-29,Maintenance Services,1,90.28,90.28,Partially Paid,patricia.brown@finance.enterprise.com,Inventory Reconciliation,Low,In Progress,2023-12-29 15:00:00
+REC-1251,William Taylor,Sales,SAL-25473,2023-01-16,Employee Benefits,18,266.69,4800.42,Partially Paid,william.taylor@sales.enterprise.com,Expense Reimbursement,Low,Completed,2023-01-17 18:00:00
+REC-1252,Susan Jackson,Finance,FIN-75484,2023-10-18,Office Supplies,11,135.01,1485.11,Paid,susan.jackson@finance.enterprise.com,Inventory Reconciliation,Low,Completed,2023-10-18 20:00:00
+REC-1253,John Smith,Finance,FIN-11610,2023-05-06,Employee Benefits,24,197.66,4743.84,Unpaid,john.smith@finance.enterprise.com,Audit Log,High,Awaiting Approval,2023-05-06 16:00:00
+REC-1254,Jessica Harris,Sales,SAL-51934,2023-05-19,Marketing Material,24,68.51,1644.24,Paid,jessica.harris@sales.enterprise.com,Audit Log,High,Completed,2023-05-20 04:00:00
+REC-1255,Thomas Martin,Procurement,PRO-47002,2023-06-09,Software Licenses,36,233.81,8417.16,Partially Paid,thomas.martin@procurement.enterprise.com,Audit Log,Medium,In Progress,2023-06-11 10:00:00
+REC-1256,Thomas Martin,Inventory Management,INV-87554,2023-09-10,Maintenance Services,35,382.64,13392.4,Unpaid,thomas.martin@inventorymanagement.enterprise.com,Audit Log,High,Awaiting Approval,2023-09-10 08:00:00
+REC-1257,Susan Jackson,Sales,SAL-11257,2023-06-21,Maintenance Services,25,426.01,10650.25,Partially Paid,susan.jackson@sales.enterprise.com,Monthly Summary,High,Pending,2023-06-22 03:00:00
+REC-1258,Maria Garcia,Human Resources,HUM-46677,2023-02-17,Hardware Peripherals,34,212.4,7221.6,Partially Paid,maria.garcia@humanresources.enterprise.com,Payroll Report,Low,Completed,2023-02-18 15:00:00
+REC-1259,Robert Johnson,Sales,SAL-61688,2023-02-08,Marketing Material,4,223.14,892.56,Unpaid,robert.johnson@sales.enterprise.com,Audit Log,Medium,In Progress,2023-02-09 15:00:00
+REC-1260,Joseph White,Sales,SAL-52762,2023-06-12,Office Supplies,15,46.6,699.0,Unpaid,joseph.white@sales.enterprise.com,Audit Log,Low,Completed,2023-06-13 00:00:00
+REC-1261,Thomas Martin,Customer Support,CUS-51160,2023-07-28,Marketing Material,23,482.67,11101.41,Unpaid,thomas.martin@customersupport.enterprise.com,Payroll Report,Medium,Awaiting Approval,2023-07-28 20:00:00
+REC-1262,James Wilson,Human Resources,HUM-99922,2023-06-05,Maintenance Services,39,29.76,1160.64,Partially Paid,james.wilson@humanresources.enterprise.com,Audit Log,High,Pending,2023-06-06 21:00:00
+REC-1263,Maria Garcia,Sales,SAL-49169,2023-05-14,Software Licenses,26,428.75,11147.5,Unpaid,maria.garcia@sales.enterprise.com,Monthly Summary,Medium,Completed,2023-05-14 14:00:00
+REC-1264,maria garcia,Procurement,PRO-39135,2023-03-08,Employee Benefits,24,346.28,8310.72,Paid,maria.garcia@procurement.enterprise.com,Inventory Reconciliation,Low,In Progress,2023-03-08 11:00:00
+REC-1265,Thomas Martin,Procurement,PRO-26880,2023-02-17,Software Licenses,3,471.72,1415.16,Paid,thomas.martin@procurement.enterprise.com,Audit Log,Low,Awaiting Approval,2023-02-19 09:00:00
+REC-1266,John Smith,Customer Support,CUS-99550,2023-08-07,Office Supplies,14,455.07,6370.98,Partially Paid,john.smith@customersupport.enterprise.com,Tax Filing,Medium,Pending,2023-08-07 08:00:00
+REC-1267,Nancy King,Human Resources,HUM-94840,2023-06-01,Employee Benefits,36,244.73,8810.28,Paid,nancy.king@humanresources.enterprise.com,Tax Filing,Medium,Pending,2023-06-02 18:00:00
+REC-1268,Charles Moore,Human Resources,HUM-92674,2023-10-06,Employee Benefits,46,185.96,8554.16,Overdue,charles.moore@humanresources.enterprise.com,Tax Filing,Low,In Progress,2023-10-07 01:00:00
+REC-1269,John Smith,Inventory Management,INV-88265,2023-04-23,Office Supplies,4,406.24,1624.96,Overdue,john.smith@inventorymanagement.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-04-23 11:00:00
+REC-1270,Elizabeth Miller,Inventory Management,INV-79951,2023-01-29,Marketing Material,25,183.85,4596.25,Unpaid,elizabeth.miller@inventorymanagement.enterprise.com,Audit Log,High,In Progress,2023-01-31 07:00:00
+REC-1271,christopher allen,Finance,FIN-56095,2023-10-18,Hardware Peripherals,37,474.7,17563.9,Overdue,christopher.allen@finance.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-10-20 02:00:00
+REC-1272,Nancy King,Human Resources,HUM-12612,2023-09-27,Software Licenses,22,459.77,10114.94,Unpaid,nancy.king@humanresources.enterprise.com,Audit Log,Medium,Pending,2023-09-28 12:00:00
+REC-1273,Robert Johnson,IT Operations,IT -28566,2023-02-26,Office Supplies,5,193.06,965.3,Overdue,robert.johnson@itoperations.enterprise.com,Inventory Reconciliation,High,In Progress,2023-02-27 12:00:00
+REC-1274,Patricia Brown,Sales,SAL-67261,2023-11-24,Maintenance Services,21,95.36,2002.56,Partially Paid,patricia.brown@sales.enterprise.com,Audit Log,Low,Pending,2023-11-25 16:00:00
+REC-1275,Barbara Anderson,Human Resources,HUM-33292,2023-01-01,Marketing Material,26,426.87,11098.62,Paid,barbara.anderson@humanresources.enterprise.com,Audit Log,Low,In Progress,2023-01-03 14:00:00
+REC-1276,Christopher Allen,Finance,FIN-75035,2023-03-14,Maintenance Services,5,126.62,633.1,Partially Paid,christopher.allen@finance.enterprise.com,Audit Log,Low,Completed,2023-03-16 08:00:00
+REC-1277,Richard Thomas,Customer Support,CUS-11493,2023-05-16,Hardware Peripherals,45,43.22,1944.9,Partially Paid,richard.thomas@customersupport.enterprise.com,Monthly Summary,Low,Completed,2023-05-16 10:00:00
+REC-1278,Jessica Harris,Human Resources,HUM-64266,2023-09-10,Office Supplies,35,193.92,6787.2,Overdue,jessica.harris@humanresources.enterprise.com,Inventory Reconciliation,Low,Pending,2023-09-10 23:00:00
+REC-1279,Maria Garcia,Inventory Management,INV-12631,2023-06-13,Software Licenses,5,177.49,887.45,Overdue,maria.garcia@inventorymanagement.enterprise.com,Audit Log,Low,Completed,2023-06-14 20:00:00
+REC-1280,James Wilson,Inventory Management,INV-87860,2023-11-11,Maintenance Services,2,221.35,442.7,Unpaid,james.wilson@inventorymanagement.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-11-11 19:00:00
+REC-1281,Michael Davis,Human Resources,HUM-63645,2023-12-23,Maintenance Services,47,274.66,12909.02,Partially Paid,michael.davis@humanresources.enterprise.com,Tax Filing,High,Completed,2023-12-23 21:00:00
+REC-1282,Karen Young,Procurement,PRO-74349,2023-03-20,Office Supplies,1,219.53,219.53,Partially Paid,karen.young@procurement.enterprise.com,Expense Reimbursement,Low,Awaiting Approval,2023-03-20 14:00:00
+REC-1283,Michael Davis,Human Resources,HUM-93648,2023-05-30,Employee Benefits,8,161.09,1288.72,Overdue,michael.davis@humanresources.enterprise.com,Payroll Report,Medium,In Progress,2023-05-30 08:00:00
+REC-1284,Joseph White,Human Resources,HUM-58630,2023-07-15,Hardware Peripherals,29,31.86,923.94,Overdue,joseph.white@humanresources.enterprise.com,Payroll Report,Medium,Pending,2023-07-16 05:00:00
+REC-1285,Robert Johnson,Procurement,PRO-97486,2023-02-19,Maintenance Services,23,406.01,9338.23,Overdue,robert.johnson@procurement.enterprise.com,Inventory Reconciliation,High,Completed,2023-02-20 03:00:00
+REC-1286,Jessica Harris,IT Operations,IT -72236,2023-10-21,Employee Benefits,20,48.69,973.8,Paid,jessica.harris@itoperations.enterprise.com,Inventory Reconciliation,Low,Pending,2023-10-21 15:00:00
+REC-1287,Thomas Martin,Human Resources,HUM-31910,2023-04-19,Hardware Peripherals,3,217.45,652.35,Overdue,thomas.martin@humanresources.enterprise.com,Audit Log,Low,Pending,2023-04-20 21:00:00
+REC-1288,James Wilson,Finance,FIN-60868,2023-10-12,Marketing Material,21,429.75,9024.75,Overdue,james.wilson@finance.enterprise.com,Monthly Summary,Low,Awaiting Approval,2023-10-12 20:00:00
+REC-1289,Robert Johnson,IT Operations,IT -87061,2023-10-26,Software Licenses,37,391.98,14503.26,Partially Paid,robert.johnson@itoperations.enterprise.com,Inventory Reconciliation,Medium,Awaiting Approval,2023-10-26 20:00:00
+REC-1290,Sarah Thompson,IT Operations,IT -89817,2023-08-31,Hardware Peripherals,18,207.46,3734.28,Overdue,sarah.thompson@itoperations.enterprise.com,Monthly Summary,Medium,In Progress,2023-09-01 22:00:00
+REC-1291,Sarah Thompson,Inventory Management,INV-58816,2023-01-11,Office Supplies,20,147.37,2947.4,Overdue,sarah.thompson@inventorymanagement.enterprise.com,Expense Reimbursement,Low,Completed,2023-01-12 01:00:00
+REC-1292,Thomas Martin,Procurement,PRO-52056,2023-05-18,Employee Benefits,39,326.32,12726.48,Unpaid,thomas.martin@procurement.enterprise.com,Payroll Report,High,Awaiting Approval,2023-05-20 23:00:00
+REC-1293,Charles Moore,Procurement,PRO-59009,2023-01-29,Hardware Peripherals,5,162.45,812.25,Overdue,charles.moore@procurement.enterprise.com,Audit Log,Low,Completed,2023-01-30 04:00:00
+REC-1294,Michael Davis,Procurement,PRO-17553,2023-05-08,Employee Benefits,4,459.84,1839.36,Unpaid,michael.davis@procurement.enterprise.com,Tax Filing,Medium,Awaiting Approval,2023-05-09 10:00:00
+REC-1295,Linda Martinez,Sales,SAL-14005,2023-05-04,Employee Benefits,39,228.59,8915.01,Overdue,linda.martinez@sales.enterprise.com,Inventory Reconciliation,Low,In Progress,2023-05-05 10:00:00
+REC-1296,William Taylor,Sales,SAL-21847,2023-05-26,Employee Benefits,4,89.82,359.28,Unpaid,william.taylor@sales.enterprise.com,Audit Log,Low,Pending,2023-05-27 20:00:00
+REC-1297,Jessica Harris,IT Operations,IT -12628,2023-12-16,Employee Benefits,9,327.21,2944.89,Paid,jessica.harris@itoperations.enterprise.com,Audit Log,Medium,In Progress,2023-12-17 22:00:00
+REC-1298,William Taylor,Customer Support,CUS-59345,2023-06-28,Office Supplies,14,238.68,3341.52,Overdue,william.taylor@customersupport.enterprise.com,Inventory Reconciliation,High,Completed,2023-06-29 23:00:00
+REC-1299,Susan Jackson,IT Operations,IT -94848,2023-11-01,Office Supplies,20,345.36,6907.2,Overdue,susan.jackson@itoperations.enterprise.com,Monthly Summary,Medium,In Progress,2023-11-03 12:00:00
+REC-1300,William Taylor,Inventory Management,INV-95998,2023-12-31,Office Supplies,13,83.47,1085.11,Unpaid,william.taylor@inventorymanagement.enterprise.com,Monthly Summary,Low,Awaiting Approval,2024-01-02 15:00:00
+REC-1301,Robert Johnson,Sales,SAL-13336,2023-12-02,Office Supplies,17,454.39,7724.63,Overdue,robert.johnson@sales.enterprise.com,Payroll Report,Low,Completed,2023-12-04 05:00:00
+REC-1302,Christopher Allen,Procurement,PRO-34892,2023-06-25,Maintenance Services,15,346.3,5194.5,Overdue,christopher.allen@procurement.enterprise.com,Expense Reimbursement,Medium,In Progress,2023-06-26 10:00:00
+REC-1303,Karen Young,Human Resources,HUM-48506,2023-02-19,Hardware Peripherals,48,136.74,6563.52,Unpaid,karen.young@humanresources.enterprise.com,Expense Reimbursement,Medium,Completed,2023-02-20 06:00:00
+REC-1304,Barbara Anderson,Customer Support,CUS-53426,2023-07-10,Marketing Material,19,237.24,4507.56,Paid,barbara.anderson@customersupport.enterprise.com,Payroll Report,High,Completed,2023-07-11 15:00:00
+REC-1305,Charles Moore,Finance,FIN-99220,2023-07-15,Office Supplies,27,36.49,985.23,Unpaid,charles.moore@finance.enterprise.com,Audit Log,High,In Progress,2023-07-16 19:00:00
+REC-1306,Thomas Martin,Human Resources,HUM-51469,2023-04-03,Employee Benefits,22,319.21,7022.62,Unpaid,thomas.martin@humanresources.enterprise.com,Tax Filing,Low,Completed,2023-04-03 03:00:00
+REC-1307,Michael Davis,Procurement,PRO-32099,2023-10-23,Employee Benefits,49,392.08,19211.92,Unpaid,michael.davis@procurement.enterprise.com,Inventory Reconciliation,Medium,Awaiting Approval,2023-10-24 07:00:00
+REC-1308,Sarah Thompson,Customer Support,CUS-10611,2023-01-20,Hardware Peripherals,47,192.82,9062.54,Paid,sarah.thompson@customersupport.enterprise.com,Tax Filing,Low,Pending,2023-01-20 19:00:00
+REC-1309,Elizabeth Miller,Human Resources,HUM-55134,2023-06-09,Software Licenses,25,256.63,6415.75,Partially Paid,elizabeth.miller@humanresources.enterprise.com,Audit Log,High,Completed,2023-06-10 00:00:00
+REC-1310,Thomas Martin,Sales,SAL-78195,2023-11-02,Office Supplies,28,445.11,12463.08,Unpaid,thomas.martin@sales.enterprise.com,Tax Filing,Medium,In Progress,2023-11-03 05:00:00
+REC-1311,Joseph White,Finance,FIN-39939,2023-04-25,Hardware Peripherals,14,369.7,5175.8,Unpaid,joseph.white@finance.enterprise.com,Monthly Summary,Medium,Completed,2023-04-27 00:00:00
+REC-1312,William Taylor,Procurement,PRO-80088,2023-11-16,Marketing Material,4,334.37,1337.48,Paid,william.taylor@procurement.enterprise.com,Monthly Summary,Low,Completed,2023-11-17 04:00:00
+REC-1313,Linda Martinez,IT Operations,IT -43126,2023-08-31,Hardware Peripherals,14,350.64,4908.96,Paid,linda.martinez@itoperations.enterprise.com,Tax Filing,Medium,Completed,2023-09-02 17:00:00
+REC-1314,Nancy King,IT Operations,IT -27978,2023-08-03,Marketing Material,47,312.67,14695.49,Partially Paid,nancy.king@itoperations.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-08-03 16:00:00
+REC-1315,William Taylor,Procurement,PRO-78569,2023-04-14,Maintenance Services,27,154.72,4177.44,Paid,william.taylor@procurement.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-04-16 08:00:00
+REC-1316,Richard Thomas,Human Resources,HUM-10358,2023-01-07,Software Licenses,8,419.26,3354.08,Overdue,richard.thomas@humanresources.enterprise.com,Audit Log,High,Completed,2023-01-09 20:00:00
+REC-1317,William Taylor,Sales,SAL-40298,2023-08-22,Office Supplies,30,34.54,1036.2,Unpaid,william.taylor@sales.enterprise.com,Monthly Summary,Medium,In Progress,2023-08-24 05:00:00
+REC-1318,Linda Martinez,Finance,FIN-16014,2023-01-05,Maintenance Services,42,93.55,3929.1,Partially Paid,linda.martinez@finance.enterprise.com,Payroll Report,Low,In Progress,2023-01-07 03:00:00
+REC-1319,Richard Thomas,Human Resources,HUM-24920,2023-07-25,Employee Benefits,18,419.5,7551.0,Overdue,richard.thomas@humanresources.enterprise.com,Payroll Report,Low,Pending,2023-07-25 20:00:00
+REC-1320,Maria Garcia,Procurement,PRO-30892,2023-02-23,Marketing Material,31,403.11,12496.41,Overdue,maria.garcia@procurement.enterprise.com,Audit Log,Low,Awaiting Approval,2023-02-24 12:00:00
+REC-1321,Robert Johnson,Customer Support,CUS-73979,2023-02-27,Employee Benefits,3,41.03,123.09,Partially Paid,robert.johnson@customersupport.enterprise.com,Monthly Summary,Low,Pending,2023-03-01 08:00:00
+REC-1322,Charles Moore,IT Operations,IT -91033,2023-02-18,Maintenance Services,47,131.8,6194.6,Partially Paid,charles.moore@itoperations.enterprise.com,Expense Reimbursement,Low,Awaiting Approval,2023-02-18 23:00:00
+REC-1323,Karen Young,IT Operations,IT -17152,2023-01-06,Hardware Peripherals,33,425.93,14055.69,Overdue,karen.young@itoperations.enterprise.com,Audit Log,High,Awaiting Approval,2023-01-07 17:00:00
+REC-1324,William Taylor,Finance,FIN-76444,2023-04-25,Maintenance Services,25,207.61,5190.25,Unpaid,william.taylor@finance.enterprise.com,Monthly Summary,Medium,Awaiting Approval,2023-04-27 06:00:00
+REC-1325,Sarah Thompson,Customer Support,CUS-51426,2023-03-02,Maintenance Services,42,18.71,785.82,Overdue,sarah.thompson@customersupport.enterprise.com,Payroll Report,High,Completed,2023-03-02 21:00:00
+REC-1326,Nancy King,Sales,SAL-49924,2023-09-18,Hardware Peripherals,42,339.02,14238.84,Partially Paid,nancy.king@sales.enterprise.com,Tax Filing,High,Pending,2023-09-19 23:00:00
+REC-1327,Nancy King,IT Operations,IT -72014,2023-12-03,Maintenance Services,29,65.87,1910.23,Unpaid,nancy.king@itoperations.enterprise.com,Monthly Summary,Medium,In Progress,2023-12-05 04:00:00
+REC-1328,Barbara Anderson,IT Operations,IT -78417,2023-07-11,Software Licenses,3,449.47,1348.41,Overdue,barbara.anderson@itoperations.enterprise.com,Audit Log,Low,Awaiting Approval,2023-07-12 05:00:00
+REC-1329,Michael Davis,Human Resources,HUM-25826,2023-07-21,Employee Benefits,13,361.23,4695.99,Paid,michael.davis@humanresources.enterprise.com,Payroll Report,High,Completed,2023-07-22 11:00:00
+REC-1330,Christopher Allen,IT Operations,IT -27647,2023-09-13,Marketing Material,48,33.8,1622.4,Overdue,christopher.allen@itoperations.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-09-14 21:00:00
+REC-1331,Robert Johnson,Finance,FIN-60778,2023-12-03,Marketing Material,21,257.01,5397.21,Overdue,robert.johnson@finance.enterprise.com,Payroll Report,Low,Pending,2023-12-04 13:00:00
+REC-1332,Richard Thomas,Inventory Management,INV-69355,2023-03-10,Employee Benefits,39,353.01,13767.39,Partially Paid,richard.thomas@inventorymanagement.enterprise.com,Expense Reimbursement,Low,In Progress,2023-03-12 02:00:00
+REC-1333,Karen Young,Sales,SAL-38487,2023-04-13,Marketing Material,46,152.38,7009.48,Partially Paid,karen.young@sales.enterprise.com,Expense Reimbursement,High,Pending,2023-04-14 15:00:00
+REC-1334,Richard Thomas,Sales,SAL-25126,2023-06-30,Employee Benefits,38,289.61,11005.18,Overdue,richard.thomas@sales.enterprise.com,Expense Reimbursement,Low,In Progress,2023-07-01 21:00:00
+REC-1335,Charles Moore,Finance,FIN-13312,2023-07-15,Software Licenses,43,37.74,1622.82,Partially Paid,charles.moore@finance.enterprise.com,Audit Log,Medium,In Progress,2023-07-15 14:00:00
+REC-1336,Barbara Anderson,Human Resources,HUM-80932,2023-01-17,Employee Benefits,7,311.89,2183.23,Unpaid,barbara.anderson@humanresources.enterprise.com,Expense Reimbursement,Low,Awaiting Approval,2023-01-18 03:00:00
+REC-1337,Barbara Anderson,Sales,SAL-97096,2023-01-25,Employee Benefits,27,478.78,12927.06,Partially Paid,barbara.anderson@sales.enterprise.com,Inventory Reconciliation,High,Completed,2023-01-27 12:00:00
+REC-1338,Nancy King,Procurement,PRO-68073,2023-04-26,Maintenance Services,46,327.34,15057.64,Unpaid,nancy.king@procurement.enterprise.com,Expense Reimbursement,High,In Progress,2023-04-28 01:00:00
+REC-1339,James Wilson,Human Resources,HUM-32779,2023-09-21,Employee Benefits,3,219.97,659.91,Partially Paid,james.wilson@humanresources.enterprise.com,Audit Log,High,In Progress,2023-09-21 04:00:00
+REC-1340,Robert Johnson,Finance,FIN-30146,2023-06-15,Software Licenses,50,466.87,23343.5,Partially Paid,robert.johnson@finance.enterprise.com,Payroll Report,Low,In Progress,2023-06-16 00:00:00
+REC-1341,Richard Thomas,IT Operations,IT -38830,2023-04-05,Software Licenses,33,88.09,2906.97,Overdue,richard.thomas@itoperations.enterprise.com,Monthly Summary,Medium,Pending,2023-04-06 06:00:00
+REC-1342,Richard Thomas,Inventory Management,INV-48479,2023-04-22,Marketing Material,31,498.35,15448.85,Paid,richard.thomas@inventorymanagement.enterprise.com,Monthly Summary,Low,In Progress,2023-04-24 00:00:00
+REC-1343,Nancy King,IT Operations,IT -41958,2023-01-21,Office Supplies,25,458.81,11470.25,Paid,nancy.king@itoperations.enterprise.com,Payroll Report,Medium,In Progress,2023-01-21 23:00:00
+REC-1344,Susan Jackson,IT Operations,IT -76680,2023-08-17,Software Licenses,19,450.16,8553.04,Unpaid,susan.jackson@itoperations.enterprise.com,Tax Filing,Low,Completed,2023-08-17 22:00:00
+REC-1345,Karen Young,IT Operations,IT -10960,2023-11-17,Hardware Peripherals,43,318.46,13693.78,Unpaid,karen.young@itoperations.enterprise.com,Expense Reimbursement,Medium,Completed,2023-11-17 16:00:00
+REC-1346,Jessica Harris,Sales,SAL-19452,2023-12-18,Software Licenses,30,361.27,10838.1,Paid,jessica.harris@sales.enterprise.com,Monthly Summary,High,Completed,2023-12-18 16:00:00
+REC-1347,Karen Young,Finance,FIN-85361,2023-04-27,Employee Benefits,25,231.05,5776.25,Overdue,karen.young@finance.enterprise.com,Payroll Report,Medium,Completed,2023-04-28 09:00:00
+REC-1348,Karen Young,Finance,FIN-94072,2023-11-13,Maintenance Services,38,32.3,1227.4,Paid,karen.young@finance.enterprise.com,Tax Filing,Low,Completed,2023-11-13 21:00:00
+REC-1349,Barbara Anderson,IT Operations,IT -21338,2023-05-25,Employee Benefits,26,412.84,10733.84,Paid,barbara.anderson@itoperations.enterprise.com,Payroll Report,High,Pending,2023-05-25 23:00:00
+REC-1350,Karen Young,Inventory Management,INV-93105,2023-03-15,Maintenance Services,N/A,327.49,15392.03,Paid,karen.young@inventorymanagement.enterprise.com,Inventory Reconciliation,Low,Pending,2023-03-15 17:00:00
+REC-1351,Christopher Allen,IT Operations,IT -61653,2023-10-03,Software Licenses,20,112.93,2258.6,Partially Paid,christopher.allen@itoperations.enterprise.com,Audit Log,Medium,Pending,2023-10-04 04:00:00
+REC-1352,Nancy King,Procurement,PRO-43127,2023-04-10,Hardware Peripherals,43,401.83,17278.69,Paid,nancy.king@procurement.enterprise.com,Inventory Reconciliation,Medium,Completed,2023-04-10 22:00:00
+REC-1353,William Taylor,Finance,FIN-35875,2023-10-25,Office Supplies,23,72.83,1675.09,Unpaid,william.taylor@finance.enterprise.com,Monthly Summary,Medium,Completed,2023-10-26 04:00:00
+REC-1354,Thomas Martin,Inventory Management,INV-90785,2023-12-04,Maintenance Services,38,84.67,3217.46,Partially Paid,thomas.martin@inventorymanagement.enterprise.com,Tax Filing,Medium,Pending,2023-12-04 10:00:00
+REC-1355,Elizabeth Miller,Sales,SAL-93995,2023-08-12,Office Supplies,9,342.99,3086.91,Partially Paid,elizabeth.miller@sales.enterprise.com,Payroll Report,Medium,Awaiting Approval,2023-08-13 07:00:00
+REC-1356,Sarah Thompson,IT Operations,IT -24264,2023-03-31,Marketing Material,6,422.48,2534.88,Unpaid,sarah.thompson@itoperations.enterprise.com,Inventory Reconciliation,High,In Progress,2023-04-02 19:00:00
+REC-1357,James Wilson,Sales,SAL-19882,2023-01-10,Maintenance Services,2,408.19,816.38,Overdue,james.wilson@sales.enterprise.com,Inventory Reconciliation,High,Completed,2023-01-12 04:00:00
+REC-1358,Karen Young,Customer Support,CUS-95709,2023-03-18,Employee Benefits,15,446.8,6702.0,Partially Paid,karen.young@customersupport.enterprise.com,Audit Log,Medium,Completed,2023-03-19 13:00:00
+REC-1359,John Smith,Sales,SAL-41310,2023-11-11,Hardware Peripherals,49,261.93,12834.57,Overdue,john.smith@sales.enterprise.com,Audit Log,High,Pending,2023-11-13 21:00:00
+REC-1360,Susan Jackson,Finance,FIN-38681,2023-09-07,Software Licenses,17,191.02,3247.34,Paid,susan.jackson@finance.enterprise.com,Expense Reimbursement,High,In Progress,2023-09-08 08:00:00
+REC-1361,Thomas Martin,Finance,FIN-15230,2023-11-29,Software Licenses,46,484.54,22288.84,Partially Paid,thomas.martin@finance.enterprise.com,Expense Reimbursement,Medium,Pending,2023-11-30 11:00:00
+REC-1362,Susan Jackson,IT Operations,IT -95634,2023-02-09,Office Supplies,25,486.61,12165.25,Unpaid,susan.jackson@itoperations.enterprise.com,Inventory Reconciliation,Medium,In Progress,2023-02-10 15:00:00
+REC-1363,Sarah Thompson,IT Operations,IT -10864,2023-09-14,Employee Benefits,11,122.7,1349.7,Partially Paid,sarah.thompson@itoperations.enterprise.com,Audit Log,High,Pending,2023-09-14 15:00:00
+REC-1364,Linda Martinez,Sales,SAL-40191,2023-08-01,Maintenance Services,8,245.94,1967.52,Overdue,linda.martinez@sales.enterprise.com,Payroll Report,High,Pending,2023-08-03 04:00:00
+REC-1365,John Smith,Human Resources,HUM-15655,2023-03-07,Marketing Material,11,76.01,836.11,Paid,john.smith@humanresources.enterprise.com,Inventory Reconciliation,High,Completed,2023-03-08 05:00:00
+REC-1366,Patricia Brown,IT Operations,IT -63143,2023-11-03,Maintenance Services,2,440.47,880.94,Partially Paid,patricia.brown@itoperations.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-11-05 09:00:00
+REC-1367,Sarah Thompson,Human Resources,HUM-38752,2023-07-30,Hardware Peripherals,38,412.02,15656.76,Unpaid,sarah.thompson@humanresources.enterprise.com,Inventory Reconciliation,Low,In Progress,2023-07-31 06:00:00
+REC-1368,Richard Thomas,Customer Support,CUS-88188,2023-10-30,Hardware Peripherals,25,198.88,4972.0,Paid,richard.thomas@customersupport.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-10-30 12:00:00
+REC-1369,Patricia Brown,Customer Support,CUS-90576,2023-11-04,Marketing Material,33,378.67,12496.11,Paid,patricia.brown@customersupport.enterprise.com,Payroll Report,Low,Pending,2023-11-05 16:00:00
+REC-1370,John Smith,Procurement,PRO-98940,2023-11-29,Marketing Material,27,191.48,5169.96,Paid,john.smith@procurement.enterprise.com,Expense Reimbursement,Low,Awaiting Approval,2023-11-30 04:00:00
+REC-1371,Sarah Thompson,Procurement,PRO-59969,2023-06-29,Maintenance Services,49,420.22,20590.78,Paid,sarah.thompson@procurement.enterprise.com,Payroll Report,High,In Progress,2023-07-01 01:00:00
+REC-1372,James Wilson,Inventory Management,INV-88419,2023-10-06,Office Supplies,13,12.68,,Paid,james.wilson@inventorymanagement.enterprise.com,Inventory Reconciliation,Low,Completed,2023-10-07 23:00:00
+REC-1373,Michael Davis,Sales,SAL-51405,2023-07-29,Software Licenses,10,218.78,2187.8,Partially Paid,michael.davis@sales.enterprise.com,Tax Filing,Low,Awaiting Approval,2023-07-31 00:00:00
+REC-1374,William Taylor,Sales,SAL-62095,2023-04-15,Marketing Material,36,246.41,8870.76,Partially Paid,william.taylor@sales.enterprise.com,Inventory Reconciliation,Low,Awaiting Approval,2023-04-16 06:00:00
+REC-1375,Christopher Allen,Inventory Management,INV-62183,2023-03-12,Software Licenses,48,122.59,5884.32,Unpaid,christopher.allen@inventorymanagement.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-03-13 19:00:00
+REC-1376,Nancy King,Sales,SAL-99727,2023-12-28,Hardware Peripherals,25,482.64,12066.0,Paid,nancy.king@sales.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-12-29 16:00:00
+REC-1377,James Wilson,Inventory Management,INV-39067,2023-07-09,Marketing Material,3,365.0,1095.0,Overdue,james.wilson@inventorymanagement.enterprise.com,Inventory Reconciliation,Low,In Progress,2023-07-11 00:00:00
+REC-1378,Maria Garcia,Procurement,PRO-32973,2023-11-24,Employee Benefits,1,108.84,108.84,Partially Paid,maria.garcia@procurement.enterprise.com,Audit Log,High,Pending,2023-11-26 07:00:00
+REC-1379,Maria Garcia,Inventory Management,INV-41359,2023-12-02,Hardware Peripherals,6,498.44,2990.64,Overdue,maria.garcia@inventorymanagement.enterprise.com,Tax Filing,Low,Awaiting Approval,2023-12-03 02:00:00
+REC-1380,Charles Moore,Finance,FIN-18993,2023-02-16,Office Supplies,47,416.58,19579.26,Partially Paid,charles.moore@finance.enterprise.com,Tax Filing,Medium,Pending,2023-02-18 08:00:00
+REC-1381,Thomas Martin,Customer Support,CUS-85354,2023-01-03,Hardware Peripherals,27,258.06,6967.62,Paid,thomas.martin@customersupport.enterprise.com,Inventory Reconciliation,Medium,In Progress,2023-01-03 16:00:00
+REC-1382,William Taylor,IT Operations,IT -85352,2023-05-09,Employee Benefits,25,285.95,7148.75,Unpaid,william.taylor@itoperations.enterprise.com,Tax Filing,Medium,Awaiting Approval,2023-05-11 12:00:00
+REC-1383,Sarah Thompson,Finance,FIN-43792,2023-02-04,Maintenance Services,15,341.69,5125.35,Unpaid,sarah.thompson@finance.enterprise.com,Tax Filing,Medium,In Progress,2023-02-05 22:00:00
+REC-1384,William Taylor,Human Resources,HUM-47655,2023-02-17,Maintenance Services,48,412.33,19791.84,Paid,william.taylor@humanresources.enterprise.com,Inventory Reconciliation,High,Awaiting Approval,2023-02-18 09:00:00
+REC-1385,Christopher Allen,Inventory Management,INV-33957,2023-12-16,Employee Benefits,48,107.84,5176.32,Unpaid,christopher.allen@inventorymanagement.enterprise.com,Tax Filing,High,Pending,2023-12-16 19:00:00
+REC-1386,Nancy King,Inventory Management,INV-30446,2023-02-24,Software Licenses,44,478.33,21046.52,Overdue,nancy.king@inventorymanagement.enterprise.com,Inventory Reconciliation,High,Completed,2023-02-25 10:00:00
+REC-1387,Richard Thomas,Customer Support,CUS-85303,2023-05-21,Hardware Peripherals,49,458.84,22483.16,Partially Paid,richard.thomas@customersupport.enterprise.com,Payroll Report,High,Pending,2023-05-21 19:00:00
+REC-1388,Jessica Harris,Customer Support,CUS-80879,2023-01-17,Office Supplies,26,431.6,11221.6,Unpaid,jessica.harris@customersupport.enterprise.com,Payroll Report,High,Awaiting Approval,2023-01-18 13:00:00
+REC-1389,John Smith,Sales,SAL-37623,2023-07-14,Software Licenses,21,187.19,3930.99,Partially Paid,john.smith@sales.enterprise.com,Audit Log,Low,In Progress,2023-07-15 10:00:00
+REC-1390,Nancy King,Inventory Management,INV-57962,2023-04-05,Employee Benefits,14,215.36,3015.04,Partially Paid,nancy.king@inventorymanagement.enterprise.com,Tax Filing,Medium,In Progress,2023-04-06 20:00:00
+REC-1391,Robert Johnson,IT Operations,IT -99916,2023-04-28,Maintenance Services,18,404.0,7272.0,Overdue,robert.johnson@itoperations.enterprise.com,Payroll Report,High,Pending,2023-04-30 03:00:00
+REC-1392,John Smith,Human Resources,HUM-65249,2023-09-13,Maintenance Services,34,271.65,9236.1,Partially Paid,john.smith@humanresources.enterprise.com,Payroll Report,Medium,In Progress,2023-09-14 16:00:00
+REC-1393,Maria Garcia,Customer Support,CUS-22972,2023-12-20,Software Licenses,14,408.77,5722.78,Overdue,maria.garcia@customersupport.enterprise.com,Expense Reimbursement,High,Awaiting Approval,2023-12-22 05:00:00
+REC-1394,Susan Jackson,Inventory Management,INV-83446,2023-10-13,Office Supplies,2,211.76,423.52,Partially Paid,susan.jackson@inventorymanagement.enterprise.com,Expense Reimbursement,Low,Pending,2023-10-14 21:00:00
+REC-1395,Karen Young,Human Resources,HUM-47304,2023-07-01,Maintenance Services,33,248.87,8212.71,Overdue,karen.young@humanresources.enterprise.com,Monthly Summary,Medium,In Progress,2023-07-02 16:00:00
+REC-1396,Robert Johnson,Procurement,PRO-31964,2023-11-24,Employee Benefits,41,310.03,12711.23,Overdue,robert.johnson@procurement.enterprise.com,Monthly Summary,High,Pending,2023-11-25 08:00:00
+REC-1397,Richard Thomas,Sales,SAL-48188,2023-12-30,Marketing Material,42,203.77,8558.34,Overdue,richard.thomas@sales.enterprise.com,Tax Filing,Low,Awaiting Approval,2023-12-31 11:00:00
+REC-1398,John Smith,Human Resources,HUM-40753,2023-12-05,Maintenance Services,45,377.37,16981.65,Unpaid,john.smith@humanresources.enterprise.com,Audit Log,Medium,Completed,2023-12-05 15:00:00
+REC-1399,Sarah Thompson,IT Operations,IT -17055,2023-01-14,Marketing Material,49,498.05,24404.45,Paid,sarah.thompson@itoperations.enterprise.com,Tax Filing,Low,Pending,2023-01-14 18:00:00
+REC-1400,Joseph White,Inventory Management,INV-40062,2023-05-07,Office Supplies,29,316.98,9192.42,Unpaid,joseph.white@inventorymanagement.enterprise.com,Inventory Reconciliation,High,Completed,2023-05-08 02:00:00
+REC-1401,Richard Thomas,Procurement,PRO-72410,2023-08-28,Office Supplies,36,227.97,8206.92,Unpaid,richard.thomas@procurement.enterprise.com,Inventory Reconciliation,Low,Awaiting Approval,2023-08-30 10:00:00
+REC-1402,Christopher Allen,Customer Support,CUS-78610,2023-11-24,Marketing Material,20,455.37,9107.4,Overdue,christopher.allen@customersupport.enterprise.com,Inventory Reconciliation,High,Completed,2023-11-26 01:00:00
+REC-1403,Jessica Harris,Inventory Management,INV-30410,2023-06-05,Software Licenses,34,409.54,,Unpaid,jessica.harris@inventorymanagement.enterprise.com,Tax Filing,Medium,Awaiting Approval,2023-06-06 11:00:00
+REC-1404,Sarah Thompson,Procurement,PRO-72530,2023-06-03,Employee Benefits,19,302.53,5748.07,Paid,sarah.thompson@procurement.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-06-04 03:00:00
+REC-1405,Jessica Harris,Customer Support,CUS-42754,2023-03-25,Maintenance Services,42,200.96,8440.32,Overdue,jessica.harris@customersupport.enterprise.com,Audit Log,Medium,Completed,2023-03-27 02:00:00
+REC-1406,Charles Moore,Procurement,PRO-90375,2023-12-22,Office Supplies,19,327.74,6227.06,Partially Paid,charles.moore@procurement.enterprise.com,Payroll Report,High,Completed,2023-12-23 09:00:00
+REC-1407,Linda Martinez,Sales,SAL-69682,2023-11-13,Office Supplies,45,315.15,14181.75,Unpaid,linda.martinez@sales.enterprise.com,Tax Filing,High,Pending,2023-11-13 18:00:00
+REC-1408,John Smith,Human Resources,HUM-23405,2023-05-25,Hardware Peripherals,46,224.82,10341.72,Paid,john.smith@humanresources.enterprise.com,Audit Log,High,Pending,2023-05-25 09:00:00
+REC-1409,Richard Thomas,Customer Support,CUS-50838,2023-09-13,Employee Benefits,45,397.8,17901.0,Partially Paid,richard.thomas@customersupport.enterprise.com,Monthly Summary,High,Completed,2023-09-14 05:00:00
+REC-1410,James Wilson,IT Operations,IT -71623,2023-04-03,Office Supplies,25,415.84,10396.0,Paid,james.wilson@itoperations.enterprise.com,Expense Reimbursement,High,Awaiting Approval,2023-04-04 11:00:00
+REC-1411,Maria Garcia,Human Resources,HUM-70402,2023-02-18,Maintenance Services,14,241.68,3383.52,Partially Paid,maria.garcia@humanresources.enterprise.com,Tax Filing,High,Completed,2023-02-20 16:00:00
+REC-1412,Charles Moore,Finance,FIN-43202,2023-09-04,Office Supplies,13,186.61,2425.93,Paid,charles.moore@finance.enterprise.com,Expense Reimbursement,High,Completed,2023-09-05 12:00:00
+REC-1413,Richard Thomas,Finance,FIN-31936,2023-05-22,Software Licenses,26,396.68,10313.68,Paid,richard.thomas@finance.enterprise.com,Monthly Summary,Low,Awaiting Approval,2023-05-24 15:00:00
+REC-1414,Susan Jackson,Procurement,PRO-21728,2023-05-08,Employee Benefits,6,346.11,2076.66,Partially Paid,susan.jackson@procurement.enterprise.com,Expense Reimbursement,High,Completed,2023-05-09 04:00:00
+REC-1415,Karen Young,Procurement,PRO-24076,2023-03-06,Hardware Peripherals,21,491.02,10311.42,Partially Paid,karen.young@procurement.enterprise.com,Payroll Report,Low,Pending,2023-03-06 17:00:00
+REC-1416,Susan Jackson,Sales,SAL-27659,2023-05-09,Employee Benefits,46,224.38,10321.48,Partially Paid,susan.jackson@sales.enterprise.com,Inventory Reconciliation,Low,Awaiting Approval,2023-05-09 14:00:00
+REC-1417,Karen Young,Inventory Management,INV-52425,2023-08-28,Marketing Material,36,88.57,3188.52,Unpaid,karen.young@inventorymanagement.enterprise.com,Payroll Report,Medium,In Progress,2023-08-29 19:00:00
+REC-1418,John Smith,Procurement,PRO-93627,2023-09-17,Maintenance Services,12,442.64,5311.68,Partially Paid,john.smith@procurement.enterprise.com,Inventory Reconciliation,High,In Progress,2023-09-19 11:00:00
+REC-1419,Karen Young,Procurement,PRO-60789,2023-04-08,Maintenance Services,32,385.21,12326.72,Unpaid,karen.young@procurement.enterprise.com,Inventory Reconciliation,Medium,In Progress,2023-04-09 19:00:00
+REC-1420,Linda Martinez,Finance,FIN-78576,2023-12-04,Software Licenses,9,97.53,877.77,Paid,linda.martinez@finance.enterprise.com,Audit Log,High,Awaiting Approval,2023-12-04 15:00:00
+REC-1421,Christopher Allen,Sales,SAL-60934,2023-12-03,Marketing Material,40,353.64,14145.6,Partially Paid,christopher.allen@sales.enterprise.com,Monthly Summary,Medium,Pending,2023-12-05 06:00:00
+REC-1422,John Smith,Human Resources,HUM-95950,2023-09-09,Employee Benefits,41,39.74,1629.34,Overdue,john.smith@humanresources.enterprise.com,Tax Filing,Low,Completed,2023-09-10 18:00:00
+REC-1423,Maria Garcia,Sales,SAL-19225,2023-06-05,Hardware Peripherals,34,57.59,1958.06,Unpaid,maria.garcia@sales.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-06-05 15:00:00
+REC-1424,Elizabeth Miller,IT Operations,IT -91962,2023-04-02,Maintenance Services,36,213.44,7683.84,Paid,elizabeth.miller@itoperations.enterprise.com,Expense Reimbursement,Low,In Progress,2023-04-04 13:00:00
+REC-1425,Jessica Harris,Finance,FIN-31864,2023-04-03,Employee Benefits,33,175.38,5787.54,Unpaid,jessica.harris@finance.enterprise.com,Inventory Reconciliation,Low,Awaiting Approval,2023-04-04 16:00:00
+REC-1426,Karen Young,Inventory Management,INV-58722,2023-07-31,Employee Benefits,47,168.49,7919.03,Unpaid,karen.young@inventorymanagement.enterprise.com,Inventory Reconciliation,Low,Pending,2023-08-01 21:00:00
+REC-1427,William Taylor,Inventory Management,INV-69297,2023-08-18,Software Licenses,47,26.98,,Partially Paid,william.taylor@inventorymanagement.enterprise.com,Inventory Reconciliation,High,Pending,2023-08-19 08:00:00
+REC-1428,Elizabeth Miller,Human Resources,HUM-51275,2023-01-12,Office Supplies,36,260.52,9378.72,Unpaid,elizabeth.miller@humanresources.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-01-13 21:00:00
+REC-1429,William Taylor,Inventory Management,INV-86304,2023-05-08,Office Supplies,20,55.03,1100.6,Overdue,william.taylor@inventorymanagement.enterprise.com,Inventory Reconciliation,High,Completed,2023-05-10 06:00:00
+REC-1430,Sarah Thompson,Human Resources,HUM-73999,2023-12-20,Marketing Material,7,301.66,2111.62,Partially Paid,sarah.thompson@humanresources.enterprise.com,Monthly Summary,Low,Awaiting Approval,2023-12-21 04:00:00
+REC-1431,Richard Thomas,Inventory Management,INV-66925,2023-08-02,Hardware Peripherals,48,329.86,15833.28,Paid,richard.thomas@inventorymanagement.enterprise.com,Expense Reimbursement,Low,Awaiting Approval,2023-08-02 07:00:00
+REC-1432,Maria Garcia,Inventory Management,INV-80769,2023-10-17,Office Supplies,33,351.91,11613.03,Unpaid,maria.garcia@inventorymanagement.enterprise.com,Monthly Summary,Low,Awaiting Approval,2023-10-18 09:00:00
+REC-1433,Christopher Allen,IT Operations,IT -21807,2023-04-24,Office Supplies,26,82.53,2145.78,Partially Paid,christopher.allen@itoperations.enterprise.com,Monthly Summary,Medium,Completed,2023-04-26 01:00:00
+REC-1434,James Wilson,Customer Support,CUS-75774,2023-08-11,Hardware Peripherals,49,76.09,3728.41,Unpaid,james.wilson@customersupport.enterprise.com,Payroll Report,Medium,Pending,2023-08-13 10:00:00
+REC-1435,Charles Moore,Human Resources,HUM-41760,2023-02-06,Employee Benefits,21,345.52,7255.92,Paid,charles.moore@humanresources.enterprise.com,Monthly Summary,Low,Awaiting Approval,2023-02-07 12:00:00
+REC-1436,Michael Davis,Inventory Management,INV-55157,2023-11-01,Software Licenses,N/A,159.36,7968.0,Partially Paid,michael.davis@inventorymanagement.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-11-03 01:00:00
+REC-1437,Elizabeth Miller,Human Resources,HUM-99831,2023-07-11,Maintenance Services,6,65.06,,Paid,elizabeth.miller@humanresources.enterprise.com,Audit Log,Low,Pending,2023-07-11 23:00:00
+REC-1438,Linda Martinez,Inventory Management,INV-68990,2023-08-30,Office Supplies,14,372.61,5216.54,Unpaid,linda.martinez@inventorymanagement.enterprise.com,Audit Log,Low,In Progress,2023-08-31 12:00:00
+REC-1439,Robert Johnson,Sales,SAL-97590,2023-01-10,Marketing Material,43,268.13,11529.59,Partially Paid,robert.johnson@sales.enterprise.com,Audit Log,High,In Progress,2023-01-11 01:00:00
+REC-1440,Nancy King,Inventory Management,INV-16957,2023-08-27,Software Licenses,5,200.44,,Partially Paid,nancy.king@inventorymanagement.enterprise.com,Expense Reimbursement,Low,In Progress,2023-08-28 03:00:00
+REC-1441,Joseph White,Human Resources,HUM-59899,2023-09-18,Software Licenses,21,247.48,5197.08,Paid,joseph.white@humanresources.enterprise.com,Audit Log,High,Awaiting Approval,2023-09-20 10:00:00
+REC-1442,John Smith,Finance,FIN-42426,2023-09-29,Office Supplies,32,202.77,6488.64,Unpaid,john.smith@finance.enterprise.com,Monthly Summary,Medium,In Progress,2023-09-30 08:00:00
+REC-1443,Elizabeth Miller,IT Operations,IT -46159,2023-02-01,Office Supplies,25,446.3,11157.5,Paid,elizabeth.miller@itoperations.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-02-02 06:00:00
+REC-1444,Joseph White,Sales,SAL-27991,2023-02-14,Employee Benefits,34,480.7,16343.8,Unpaid,joseph.white@sales.enterprise.com,Payroll Report,High,Pending,2023-02-16 03:00:00
+REC-1445,Nancy King,Inventory Management,INV-68873,2023-10-05,Hardware Peripherals,42,77.9,3271.8,Unpaid,nancy.king@inventorymanagement.enterprise.com,Audit Log,Medium,Pending,2023-10-06 08:00:00
+REC-1446,robert johnson,Sales,SAL-84035,2023-03-22,Software Licenses,36,271.15,9761.4,Paid,robert.johnson@sales.enterprise.com,Audit Log,Medium,Pending,2023-03-24 09:00:00
+REC-1447,Jessica Harris,Customer Support,CUS-49760,2023-08-15,Maintenance Services,48,144.16,6919.68,Unpaid,jessica.harris@customersupport.enterprise.com,Monthly Summary,High,Pending,2023-08-16 01:00:00
+REC-1448,Nancy King,IT Operations,IT -44978,2023-11-07,Marketing Material,15,302.22,4533.3,Unpaid,nancy.king@itoperations.enterprise.com,Expense Reimbursement,High,In Progress,2023-11-08 00:00:00
+REC-1449,Sarah Thompson,Human Resources,HUM-75840,2023-11-06,Maintenance Services,42,193.24,8116.08,Overdue,sarah.thompson@humanresources.enterprise.com,Payroll Report,Medium,Pending,2023-11-07 02:00:00
+REC-1450,Maria Garcia,Customer Support,CUS-11967,2023-05-19,Hardware Peripherals,48,338.96,16270.08,Unpaid,maria.garcia@customersupport.enterprise.com,Audit Log,High,Pending,2023-05-20 18:00:00
+REC-1451,Sarah Thompson,Sales,SAL-52584,2023-08-23,Employee Benefits,26,390.35,10149.1,Overdue,sarah.thompson@sales.enterprise.com,Expense Reimbursement,Medium,Awaiting Approval,2023-08-24 23:00:00
+REC-1452,Christopher Allen,IT Operations,IT -80275,2023-09-26,Maintenance Services,3,265.12,795.36,Overdue,christopher.allen@itoperations.enterprise.com,Payroll Report,High,Pending,2023-09-28 06:00:00
+REC-1453,Maria Garcia,IT Operations,IT -60777,2023-09-22,Software Licenses,13,152.68,1984.84,Overdue,maria.garcia@itoperations.enterprise.com,Tax Filing,Medium,Awaiting Approval,2023-09-23 07:00:00
+REC-1454,Nancy King,Finance,FIN-77760,2023-03-14,Maintenance Services,29,54.32,1575.28,Paid,nancy.king@finance.enterprise.com,Audit Log,Low,Pending,2023-03-15 16:00:00
+REC-1455,Thomas Martin,Finance,FIN-33445,2023-08-21,Maintenance Services,13,442.45,5751.85,Paid,thomas.martin@finance.enterprise.com,Tax Filing,Medium,Pending,2023-08-23 16:00:00
+REC-1456,James Wilson,Finance,FIN-68903,2023-11-21,Software Licenses,34,356.57,12123.38,Unpaid,james.wilson@finance.enterprise.com,Payroll Report,Low,Awaiting Approval,2023-11-21 14:00:00
+REC-1457,Richard Thomas,IT Operations,IT -96445,2023-03-18,Hardware Peripherals,12,386.89,4642.68,Paid,richard.thomas@itoperations.enterprise.com,Payroll Report,Medium,In Progress,2023-03-20 04:00:00
+REC-1458,Thomas Martin,Inventory Management,INV-92110,2023-04-03,Hardware Peripherals,13,11.73,152.49,Partially Paid,thomas.martin@inventorymanagement.enterprise.com,Monthly Summary,Medium,Awaiting Approval,2023-04-04 11:00:00
+REC-1459,John Smith,IT Operations,IT -74679,2023-05-02,Marketing Material,43,243.1,10453.3,Overdue,john.smith@itoperations.enterprise.com,Payroll Report,High,Completed,2023-05-02 22:00:00
+REC-1460,William Taylor,IT Operations,IT -92396,2023-10-13,Software Licenses,12,82.65,991.8,Partially Paid,william.taylor@itoperations.enterprise.com,Monthly Summary,High,Completed,2023-10-15 01:00:00
+REC-1461,Nancy King,Inventory Management,INV-53399,2023-02-14,Software Licenses,27,496.93,13417.11,Unpaid,nancy.king@inventorymanagement.enterprise.com,Expense Reimbursement,Medium,Pending,2023-02-15 07:00:00
+REC-1462,Susan Jackson,Finance,FIN-22206,2023-06-03,Office Supplies,25,411.93,10298.25,Overdue,susan.jackson@finance.enterprise.com,Inventory Reconciliation,High,In Progress,2023-06-04 17:00:00
+REC-1463,William Taylor,Inventory Management,INV-79081,2023-07-31,Hardware Peripherals,45,112.43,5059.35,Paid,william.taylor@inventorymanagement.enterprise.com,Monthly Summary,Low,Completed,2023-08-01 23:00:00
+REC-1464,Nancy King,Procurement,PRO-47642,2023-08-07,Office Supplies,17,267.44,4546.48,Partially Paid,nancy.king@procurement.enterprise.com,Audit Log,Low,Awaiting Approval,2023-08-09 05:00:00
+REC-1465,Sarah Thompson,Customer Support,CUS-33580,2023-11-09,Maintenance Services,19,489.84,9306.96,Paid,sarah.thompson@customersupport.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-11-11 00:00:00
+REC-1466,Michael Davis,Procurement,PRO-90649,2023-08-01,Software Licenses,22,181.33,3989.26,Unpaid,michael.davis@procurement.enterprise.com,Monthly Summary,Low,Pending,2023-08-03 10:00:00
+REC-1467,James Wilson,Inventory Management,INV-49358,2023-09-17,Office Supplies,50,13.0,650.0,Partially Paid,james.wilson@inventorymanagement.enterprise.com,Tax Filing,Medium,Completed,2023-09-18 05:00:00
+REC-1468,Richard Thomas,Sales,SAL-72797,2023-08-31,Maintenance Services,9,245.93,2213.37,Overdue,richard.thomas@sales.enterprise.com,Inventory Reconciliation,Medium,Awaiting Approval,2023-09-01 04:00:00
+REC-1469,Maria Garcia,Procurement,PRO-78298,2023-06-03,Maintenance Services,44,164.6,7242.4,Paid,maria.garcia@procurement.enterprise.com,Audit Log,Low,In Progress,2023-06-04 17:00:00
+REC-1470,Robert Johnson,Inventory Management,INV-14085,2023-06-23,Maintenance Services,35,422.78,14797.3,Overdue,robert.johnson@inventorymanagement.enterprise.com,Audit Log,Low,Completed,2023-06-24 08:00:00
+REC-1471,Richard Thomas,Sales,SAL-14145,2023-05-20,Software Licenses,32,439.75,14072.0,Partially Paid,richard.thomas@sales.enterprise.com,Payroll Report,Medium,Pending,2023-05-21 23:00:00
+REC-1472,Linda Martinez,Inventory Management,INV-14901,2023-04-14,Employee Benefits,33,22.22,733.26,Overdue,linda.martinez@inventorymanagement.enterprise.com,Inventory Reconciliation,High,Pending,2023-04-15 00:00:00
+REC-1473,Charles Moore,Inventory Management,INV-52904,2023-03-15,Marketing Material,44,496.43,21842.92,Unpaid,charles.moore@inventorymanagement.enterprise.com,Expense Reimbursement,High,Awaiting Approval,2023-03-16 04:00:00
+REC-1474,Charles Moore,Finance,FIN-10538,2023-06-09,Maintenance Services,39,437.22,17051.58,Partially Paid,charles.moore@finance.enterprise.com,Payroll Report,High,Completed,2023-06-10 11:00:00
+REC-1475,Barbara Anderson,Finance,FIN-85701,2023-06-09,Hardware Peripherals,21,108.27,2273.67,Partially Paid,barbara.anderson@finance.enterprise.com,Tax Filing,Low,In Progress,2023-06-11 01:00:00
+REC-1476,William Taylor,Human Resources,HUM-30643,2023-05-21,Software Licenses,40,284.22,11368.8,Paid,william.taylor@humanresources.enterprise.com,Audit Log,Low,In Progress,2023-05-22 15:00:00
+REC-1477,ROBERT JOHNSON,Sales,SAL-47128,2023-10-21,Hardware Peripherals,5,162.58,812.9,Partially Paid,robert.johnson@sales.enterprise.com,Inventory Reconciliation,Medium,Completed,2023-10-21 16:00:00
+REC-1478,Maria Garcia,Finance,FIN-60279,2023-01-28,Employee Benefits,26,97.7,2540.2,Overdue,maria.garcia@finance.enterprise.com,Inventory Reconciliation,Medium,In Progress,2023-01-29 00:00:00
+REC-1479,Karen Young,Finance,FIN-71039,2023-10-18,Software Licenses,45,239.46,10775.7,Overdue,karen.young@finance.enterprise.com,Tax Filing,Low,Awaiting Approval,2023-10-19 11:00:00
+REC-1480,Elizabeth Miller,Human Resources,HUM-90863,2023-05-13,Employee Benefits,12,352.81,4233.72,Partially Paid,elizabeth.miller@humanresources.enterprise.com,Tax Filing,Medium,Awaiting Approval,2023-05-13 13:00:00
+REC-1481,Linda Martinez,Inventory Management,INV-72737,2023-08-25,Office Supplies,50,180.82,9041.0,Unpaid,linda.martinez@inventorymanagement.enterprise.com,Inventory Reconciliation,High,Awaiting Approval,2023-08-27 03:00:00
+REC-1482,Richard Thomas,IT Operations,IT -95124,2023-02-06,Marketing Material,30,206.4,6192.0,Overdue,richard.thomas@itoperations.enterprise.com,Audit Log,Low,Pending,2023-02-07 21:00:00
+REC-1483,Sarah Thompson,Customer Support,CUS-18658,2023-06-24,Maintenance Services,38,221.26,8407.88,Overdue,sarah.thompson@customersupport.enterprise.com,Inventory Reconciliation,Medium,Pending,2023-06-24 18:00:00
+REC-1484,James Wilson,Sales,SAL-85260,2023-09-07,Marketing Material,39,236.83,9236.37,Paid,james.wilson@sales.enterprise.com,Payroll Report,High,In Progress,2023-09-08 05:00:00
+REC-1485,Linda Martinez,Sales,SAL-88172,2023-07-14,Employee Benefits,42,333.48,14006.16,Paid,linda.martinez@sales.enterprise.com,Audit Log,High,Completed,2023-07-14 20:00:00
+REC-1486,Thomas Martin,IT Operations,IT -48207,2023-07-19,Marketing Material,29,105.88,3070.52,Partially Paid,thomas.martin@itoperations.enterprise.com,Tax Filing,Low,In Progress,2023-07-20 23:00:00
+REC-1487,Susan Jackson,Finance,FIN-86379,2023-01-05,Marketing Material,26,425.34,11058.84,Partially Paid,susan.jackson@finance.enterprise.com,Monthly Summary,Medium,Completed,2023-01-05 20:00:00
+REC-1488,Susan Jackson,Finance,FIN-46989,2023-01-16,Employee Benefits,45,299.18,13463.1,Partially Paid,susan.jackson@finance.enterprise.com,Expense Reimbursement,Medium,Awaiting Approval,2023-01-17 08:00:00
+REC-1489,Michael Davis,Sales,SAL-32729,2023-09-01,Hardware Peripherals,36,198.45,7144.2,Partially Paid,michael.davis@sales.enterprise.com,Payroll Report,High,In Progress,2023-09-02 23:00:00
+REC-1490,John Smith,Finance,FIN-94985,2023-01-09,Maintenance Services,32,332.38,10636.16,Unpaid,john.smith@finance.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-01-10 10:00:00
+REC-1491,Nancy King,Customer Support,CUS-91690,2023-04-03,Marketing Material,28,280.5,7854.0,Overdue,nancy.king@customersupport.enterprise.com,Payroll Report,Medium,Pending,2023-04-04 02:00:00
+REC-1492,John Smith,IT Operations,IT -75294,2023-05-02,Marketing Material,18,211.31,3803.58,Partially Paid,john.smith@itoperations.enterprise.com,Monthly Summary,High,Awaiting Approval,2023-05-04 20:00:00
+REC-1493,Christopher Allen,Customer Support,CUS-20494,2023-03-14,Maintenance Services,34,491.95,16726.3,Partially Paid,christopher.allen@customersupport.enterprise.com,Payroll Report,Low,Completed,2023-03-16 09:00:00
+REC-1494,James Wilson,Human Resources,HUM-71925,2023-11-19,Maintenance Services,43,48.26,2075.18,Partially Paid,james.wilson@humanresources.enterprise.com,Inventory Reconciliation,High,In Progress,2023-11-21 10:00:00
+REC-1495,Sarah Thompson,Customer Support,CUS-77195,2023-08-29,Maintenance Services,22,216.3,4758.6,Partially Paid,sarah.thompson@customersupport.enterprise.com,Tax Filing,High,Completed,2023-08-31 15:00:00
+REC-1496,Barbara Anderson,Sales,SAL-83886,2023-05-14,Maintenance Services,31,293.29,9091.99,Paid,barbara.anderson@sales.enterprise.com,Expense Reimbursement,Medium,Completed,2023-05-14 20:00:00
+REC-1497,Robert Johnson,IT Operations,IT -20074,2023-05-23,Hardware Peripherals,40,147.68,5907.2,Partially Paid,robert.johnson@itoperations.enterprise.com,Monthly Summary,Low,Completed,2023-05-24 23:00:00
+REC-1498,Christopher Allen,Sales,SAL-29809,2023-12-04,Office Supplies,12,138.01,1656.12,Unpaid,christopher.allen@sales.enterprise.com,Payroll Report,High,Completed,2023-12-05 12:00:00
+REC-1499,Robert Johnson,IT Operations,IT -30204,2023-09-11,Employee Benefits,16,333.73,5339.68,Unpaid,robert.johnson@itoperations.enterprise.com,Audit Log,Low,In Progress,2023-09-11 17:00:00
+REC-1500,Linda Martinez,Finance,FIN-31967,2023-08-26,Employee Benefits,20,243.37,4867.4,Unpaid,linda.martinez@finance.enterprise.com,Payroll Report,Low,Awaiting Approval,2023-08-27 19:00:00

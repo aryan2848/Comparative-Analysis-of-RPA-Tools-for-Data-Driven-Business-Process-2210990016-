@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-RPA-Tools-for-Data-Driven-Business-Process-2210990016-
+Many organisations are still doing tasks like data entry and report  generation manual. These tasks take lot of time also their is  chance of human errors. To solve these problems, Robotic Process  Automation (RPA) is a good solution. However, selecting the RPA  tool is very confusing as different platform provide different  features. 
